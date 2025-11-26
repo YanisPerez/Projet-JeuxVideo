@@ -3,7 +3,7 @@
 ---
 
 <details>
-  <summary><h2>📅 Planning détaillé sur 6 mois</h2></summary>
+  <summary><h2>📅 1. Planning détaillé sur 6 mois</h2></summary>
 
 **Répartition des rôles**
 - Game Designer (GD)
@@ -16,7 +16,7 @@
 ---
 
 <details>
-  <summary><h2>📆 PLANNING MOIS PAR MOIS</h2></summary>
+  <summary><h2>📆 2. PLANNING MOIS PAR MOIS</h2></summary>
   
 ### Mois 1 — Pré-production (Bases + Prototype)
 
