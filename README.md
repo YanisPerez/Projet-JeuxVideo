@@ -1,1 +1,1 @@
-# Projet-Jeux-Vid-o
+# Projet-Jeux-Vidéo
