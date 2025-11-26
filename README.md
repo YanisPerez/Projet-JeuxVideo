@@ -1,6 +1,7 @@
 # Projet de Jeu Vidéo Écologique
 
 ---
+
 <details>
   <summary><h2>📅 Planning détaillé sur 6 mois</h2></summary>
 
@@ -16,6 +17,7 @@
 
 <details>
   <summary><h2>📆 PLANNING MOIS PAR MOIS</h2></summary>
+  
 ### Mois 1 — Pré-production (Bases + Prototype)
 
 **- GD**
