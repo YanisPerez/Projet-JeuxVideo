@@ -27,74 +27,94 @@ Documentation : Notion / Google Docs
 - Cahier des charges + boucle de gameplay
 - Croquis des niveaux
 Outils : Notion, Google Docs, Figma (croquis UI)
+
 **Dev 1**
 - Prototype minimal (déplacements, interactions)
 Outils :
 Unity ou Godot, Visual Studio Code / Rider
+
 **Dev 2**
 - Mise en place du projet (Unity/Godot)
 - Gestion des inputs + caméras
 Outils :
 Unity Input System, GitHub pour le versioning
+
 **Artiste**
 - Tests de style graphique
 - Concept arts + premiers assets simples
 Outils :
 Aseprite (2D), Photoshop/Krita, Blender (si 3D)
+
 **Sound**
 - Recherches sonores + ambiance générale
 Outils :
 YouTube audio library (références), Audacity, Reaper
 Livrable : mini prototype jouable 2–3 minutes.
+
+--
+
 **Mois 2 — Développement du cœur du jeu**
+
 **Dev 1**
 - Programmation mécaniques de base
 - Collisions, inventaire simple, interactions
 Outils :
 Unity (collisions 2D/3D), C#, Rider/VSCode
+
 **Dev 2**
 - UI de base (menus, HUD)
 - Système de sauvegarde
 Outils :
 Figma (UI mockups), Unity UI Toolkit, PlayerPrefs / JSON
+
 **Artiste**
 - Assets principaux
 - Animations simples
 Outils :
 Blender (animations), Aseprite (sprites), Photoshop
+
 **GD**
 - Level design des 2 premiers niveaux
 Outils :
 Unity Tilemap (2D), ProBuilder (3D), Google Sheets (équilibrage)
+
 **Sound**
 - Bruitages de base (pas, objets, interface)
 Ouils :
 Audacity, freesound.org, Reaper
+
 **Mois 3 — Contenu jouable**
+
 **Dev 1**
 - IA basique
 - Feedbacks
 Outils :
 Unity NavMesh (si 3D), scripts C#
+
 **Dev 2**
 - Intégration assets + polish UI
 Outils :
 Unity Canvas/UI Toolkit, GitHub
+
 **GD**
 - Création niveaux + scripts d'événements
 Outils :
 Unity Timeline, prefabs, Notion (doc niveaux)
+
 **Artiste**
 - Nouveaux environnements
 - Effets visuels simples
 Outils :
 Blender, Aseprite, Unity Particle System
+
 **Sound**
 - Musique d’ambiance 1 & 2
 Outils :
 FL Studio / LMMS, Reaper
 Livrable : version jouable de 30 à 60 min.
+
 **Mois 4 — Finalisation du contenu**
+
 **Dev**
 - Fonctionnalités secondaires
 - Bugs majeurs
@@ -105,50 +125,62 @@ Artiste
 - Polissage
 Outils :
 Figma, Photoshop, Unity UI
+
 **GD**
 - Ajustement du gameplay
 - Tests internes
 Outils :
 Google Forms (retours internes), Excel (équilibrage)
+
 **Sound**
 - Musiques finales
 - Bruitages restants
 Outils :
 Reaper, Audacity
+
 **Mois 5 — Optimisation + Test + Polish**
+
 **Dev**
 - Optimisation
 - Correction de bugs
 - Ajustement difficulté
 Outils :
 Unity Profiler, Deep Profiling, GitHub Projects
+
 **Artiste**
 - Optimisation textures
 - Petits effets visuels
 Outils :
 TexturePacker, Blender, Unity VFX
+
 **Sound**
 - Mastering audio
 Outils : Reaper
+
 **GD**
 - Tests utilisateurs + corrections
 Outils :
 Playtests enregistrés, Google Forms, Notion
+
 **Mois 6 — Finitions + Communication + Versions finales**
+
 **Dev**
 - Build final
 - Compatibilité plateformes
 Outils :
 Unity Build Tools, itch.io or Steamworks
+
 **Artiste**
 - Trailer du jeu
 - Screenshots officiels
 Outils :
 Premiere Pro / DaVinci Resolve, OBS Studio
+
 **Sound**
 - Mix final pour le trailer
 Outils :
 Reaper
+
 **GD**
 - Dossier de présentation projet
 Outils :
