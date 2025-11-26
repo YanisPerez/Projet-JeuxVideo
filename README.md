@@ -1,8 +1,8 @@
 # Projet de Jeu Vidéo Écologique
 
 ---
-
-<summary>## 📅 2. Planning détaillé sur 6 mois</summary>
+<details>
+  <summary>## 📅 2. Planning détaillé sur 6 mois</summary>
 
 **Répartition des rôles**
 - Game Designer (GD)
@@ -10,7 +10,7 @@
 - Dev 2 (Tech/UI)
 - Artiste
 - Sound Designer / Communication
-
+</details>
 ---
 
 ## 📆 PLANNING MOIS PAR MOIS
