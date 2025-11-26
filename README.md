@@ -16,7 +16,7 @@
 ## 📆 PLANNING MOIS PAR MOIS
 ### Mois 1 — Pré-production (Bases + Prototype)
 
-**GD**
+**- GD**
 - Document du concept
 - Cahier des charges + boucle de gameplay
 - Croquis des niveaux
