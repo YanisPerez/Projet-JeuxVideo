@@ -181,7 +181,8 @@ Canva, Google Slides, Notion
 
 ---
 
-## 🎨 3. Liste complète d’assets graphiques à produire
+<details>
+  <summary><h2>🎨 3. Liste complète d’assets graphiques à produire</h2></summary>
 (Avec les outils pour chaque type)
 
 **A. Personnages**
@@ -203,10 +204,12 @@ Boutons, HUD (Figma)
 **E. Effets visuels**
 Particules (Unity VFX / Particle System)
 Transitions (Photoshop, Unity animations)
+</details>
 
 ---
 
-## 📘 4. GDD COMPLET (Game Design Document)
+<details>
+  <summary><h2>📘 4. GDD COMPLET (Game Design Document)</h2></summary>
 
 **1 — Informations générales**
 - Titre du jeu :
@@ -284,3 +287,4 @@ Transitions (Photoshop, Unity animations)
 - Retard : réduire les niveaux
 - Trop d’assets : passer au style lowpoly
 - Bugs : focus sur gameplay simple
+</details>
