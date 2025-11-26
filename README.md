@@ -1,352 +1,203 @@
-# Projet-JeuxVidéo
-🌱 Projet de Jeu Vidéo Écologique — Documentation & Planning
+# 🌱 Projet de Jeu Vidéo Écologique — README
 
+---
 
+## 📅 2. Planning détaillé sur 6 mois
 
-
-
-
-
-
-🎮 Présentation du Projet
-
-Projet étudiant consistant à développer un jeu vidéo écologique en 6 mois, réalisé par une équipe de 5 personnes.
-Le dépôt contient toute la documentation :
-
-3 idées de jeu réalisables
-
-Planning détaillé sur 6 mois
-
-Liste des outils nécessaires
-
-GDD complet
-
-Maquettes (placeholder)
-
-🧠 1. Idées de jeux écologiques (3 concepts réalisables)
-✨ Idée 1 — “EcoSaver” (2D gestion / puzzle)
-
-Tu joues un robot chargé de nettoyer et restaurer différents environnements contaminés.
-
-Gameplay :
-
-Éliminer des déchets
-
-Utiliser des machines écologiques
-
-Résoudre des puzzles (eau, air, sol)
-
-Gestion de ressources (énergie solaire, eau filtrée…)
-
-Pourquoi réalisable en 6 mois ?
-→ Gameplay simple, assets 2D faciles, niveaux modulaires.
-
-✨ Idée 2 — “Reforest’Action” (3D lowpoly / exploration)
-
-Le joueur explore une île détruite et doit planter, protéger et restaurer une forêt.
-
-Gameplay :
-
-Exploration
-
-Plantation d’arbres
-
-Soin des écosystèmes
-
-Identification d’espèces
-
-Pourquoi réalisable ?
-→ Style lowpoly rapide + mécaniques simples.
-
-✨ Idée 3 — “Green City Builder” (2D vue du dessus)
-
-City-builder écologique minimaliste.
-
-Gameplay :
-
-Construire bâtiments écologiques
-
-Gérer besoins des habitants
-
-Équilibrer pollution / énergie / nature
-
-Pourquoi réalisable ?
-→ Systèmes limités + assets simples.
-
-📅 2. Planning détaillé (6 mois)
-Rôles :
-
-Game Designer
-
-Dev 1 Gameplay
-
-Dev 2 Tech / UI
-
-Artiste (2D/3D + UI)
-
-Sound Designer / Communication
-
-📆 DÉTAIL PAR MOIS (+ outils utilisés)
-Mois 1 — Pré-production
-Actions :
-
-Concept
-
-Cahier des charges
-
-Prototype simple
-
-Tests de style
-
-Recherche sonore
-
-Outils :
-
+**Répartition des rôles**
+- Game Designer (GD)
+- Dev 1 (Gameplay)
+- Dev 2 (Tech/UI)
+- Artiste
+- Sound Designer / Communication
+**🛠️ Outils généraux pour l’équipe :**
+Communication : Discord
+Stockage : Google Drive
+Gestion projet : Trello / Notion
+Versioning : GitHub / GitLab
 Documentation : Notion / Google Docs
 
-Organisation : Trello, Miro
+---
 
-Prototype : Unity / Godot
-
-Graphisme : Photoshop / Krita / Blender
-
-Sound : Audacity
-
-Mois 2 — Développement du core
-Actions :
-
-Mécaniques principales
-
-UI de base
-
-Sauvegarde
-
-Assets principaux
-
+## 📆 PLANNING MOIS PAR MOIS
+**Mois 1 — Pré-production (Bases + Prototype)**
+**GD**
+- Document du concept
+- Cahier des charges + boucle de gameplay
+- Croquis des niveaux
+Outils : Notion, Google Docs, Figma (croquis UI)
+**Dev 1**
+- Prototype minimal (déplacements, interactions)
 Outils :
-
-Unity (C#) / Godot (GDScript)
-
-GitHub
-
-Aseprite / Blender
-
-Figma (UI)
-
-Mois 3 — Contenu jouable
-Actions :
-
-IA basique
-
-Assets nouveaux
-
-Level design
-
-Musiques
-
+Unity ou Godot, Visual Studio Code / Rider
+**Dev 2**
+- Mise en place du projet (Unity/Godot)
+- Gestion des inputs + caméras
 Outils :
-
-Unity NavMesh / Godot AI nodes
-
-Blender
-
-LMMS / Audacity
-
-Tiled (si 2D)
-
-Mois 4 — Finalisation du contenu
-Actions :
-
-Polissage gameplay
-
-UI finale
-
-Tests internes
-
+Unity Input System, GitHub pour le versioning
+**Artiste**
+- Tests de style graphique
+- Concept arts + premiers assets simples
 Outils :
-
-Unity Profiler / Godot Debugger
-
-GitHub Issues
-
-Figma / Blender
-
-Mois 5 — Optimisation + Tests
-Actions :
-
-Optimisation
-
-Corrections
-
-Amélioration audio
-
+Aseprite (2D), Photoshop/Krita, Blender (si 3D)
+**Sound**
+- Recherches sonores + ambiance générale
 Outils :
-
-Unity Profiler
-
-Godot Performance Monitor
-
-Audacity / Reaper
-
-Playtest externes
-
-Mois 6 — Finitions + Communication
-Actions :
-
-Build final
-
-Trailer
-
-Présentation
-
+YouTube audio library (références), Audacity, Reaper
+Livrable : mini prototype jouable 2–3 minutes.
+**Mois 2 — Développement du cœur du jeu**
+**Dev 1**
+- Programmation mécaniques de base
+- Collisions, inventaire simple, interactions
 Outils :
-
-OBS Studio (captures)
-
-DaVinci Resolve (montage trailer)
-
-PowerPoint / Canva
-
-Itch.io (mise en ligne)
-
-🎨 3. Liste des assets graphiques nécessaires
-Personnages
-
-Sprite / modèle
-
-Animations idle / marche / action
-
-Environnements
-
-Sols
-
-Arbres / plantes
-
-Rochers
-
-Eau
-
-Météo
-
-Objets
-
-Déchets
-
-Panneaux solaires
-
-Machines écologiques
-
-UI / Interface
-
-Icônes
-
-Boutons
-
-HUD
-
-Effets visuels
-
-Particules
-
-Nettoyage
-
-Transitions
-
-📘 4. GDD COMPLET
-1. Informations générales
-
-Titre :
-
-Genre :
-
-Plateforme :
-
-Durée :
-
-Public :
-
-2. Pitch
-
-Description du jeu et de la thématique écologique.
-
-3. Core Loop
-
-Le joueur explore
-
-Récupère ressources
-
-Nettoie / restaure
-
-Progresse
-
-4. Gameplay détaillé
-
-Mécaniques principales
-
-Mécaniques secondaires
-
-5. Progression du joueur
-
-Niveau 1
-
-Niveau 2
-
-Niveau 3
-
-Challenge final
-
-6. Personnages
-
-Rôle
-
-Animations
-
-7. Environnements
-
-Zones
-
-Interactions
-
-8. UI/UX
-
-HUD
-
-Menus
-
-Feedbacks
-
-9. Graphismes
-
-Style
-
-Palette
-
-Références
-
-10. Son
-
-Ambiances
-
-Bruitages
-
-Musiques
-
-11. Technologies
-
-Unity / Godot
-
-GitHub
-
-Blender
-
-Aseprite
-
-Audacity
-
-12. Risques
-
-Trop d’assets → lowpoly
-
-Retard → réduire les niveaux
-
-Bugs → simplifier gameplay
+Unity (collisions 2D/3D), C#, Rider/VSCode
+**Dev 2**
+- UI de base (menus, HUD)
+- Système de sauvegarde
+Outils :
+Figma (UI mockups), Unity UI Toolkit, PlayerPrefs / JSON
+**Artiste**
+- Assets principaux
+- Animations simples
+Outils :
+Blender (animations), Aseprite (sprites), Photoshop
+**GD**
+- Level design des 2 premiers niveaux
+Outils :
+Unity Tilemap (2D), ProBuilder (3D), Google Sheets (équilibrage)
+**Sound**
+- Bruitages de base (pas, objets, interface)
+Ouils :
+Audacity, freesound.org, Reaper
+**Mois 3 — Contenu jouable**
+**Dev 1**
+- IA basique
+- Feedbacks
+Outils :
+Unity NavMesh (si 3D), scripts C#
+**Dev 2**
+- Intégration assets + polish UI
+Outils :
+Unity Canvas/UI Toolkit, GitHub
+**GD**
+- Création niveaux + scripts d'événements
+Outils :
+Unity Timeline, prefabs, Notion (doc niveaux)
+**Artiste**
+- Nouveaux environnements
+- Effets visuels simples
+Outils :
+Blender, Aseprite, Unity Particle System
+**Sound**
+- Musique d’ambiance 1 & 2
+Outils :
+FL Studio / LMMS, Reaper
+Livrable : version jouable de 30 à 60 min.
+**Mois 4 — Finalisation du contenu**
+**Dev**
+- Fonctionnalités secondaires
+- Bugs majeurs
+Outils :
+Unity Profiler, GitHub Issues
+Artiste
+- UI définitive
+- Polissage
+Outils :
+Figma, Photoshop, Unity UI
+**GD**
+- Ajustement du gameplay
+- Tests internes
+Outils :
+Google Forms (retours internes), Excel (équilibrage)
+**Sound**
+- Musiques finales
+- Bruitages restants
+Outils :
+Reaper, Audacity
+**Mois 5 — Optimisation + Test + Polish**
+**Dev**
+- Optimisation
+- Correction de bugs
+- Ajustement difficulté
+Outils :
+Unity Profiler, Deep Profiling, GitHub Projects
+**Artiste**
+- Optimisation textures
+- Petits effets visuels
+Outils :
+TexturePacker, Blender, Unity VFX
+**Sound**
+- Mastering audio
+Outils : Reaper
+**GD**
+- Tests utilisateurs + corrections
+Outils :
+Playtests enregistrés, Google Forms, Notion
+**Mois 6 — Finitions + Communication + Versions finales**
+**Dev**
+- Build final
+- Compatibilité plateformes
+Outils :
+Unity Build Tools, itch.io or Steamworks
+**Artiste**
+- Trailer du jeu
+- Screenshots officiels
+Outils :
+Premiere Pro / DaVinci Resolve, OBS Studio
+**Sound**
+- Mix final pour le trailer
+Outils :
+Reaper
+**GD**
+- Dossier de présentation projet
+Outils :
+Canva, Google Slides, Notion
+
+---
+
+## 🎨 3. Liste complète d’assets graphiques à produire
+(Avec les outils pour chaque type)
+A. Personnages
+Modèle principal (Aseprite / Blender)
+Animations : idle, marche, course, action (Aseprite ou Blender)
+B. Environnements
+Sols, arbres, rochers (Photoshop / Blender / Aseprite)
+Météo (Unity Particle System)
+C. Objets
+Panneaux solaires, compost, outils (Illustrator / Aseprite)
+Déchets (Aseprite)
+D. UI / Interface
+Icônes (Figma / Illustrator)
+Boutons, HUD (Figma)
+E. Effets visuels
+Particules (Unity VFX / Particle System)
+Transitions (Photoshop, Unity animations)
+
+---
+
+## 📘 4. GDD COMPLET (Game Design Document)
+(Avec outils recommandés pour remplir chaque section)
+1 — Informations générales
+Outils : Notion, Google Docs
+2 — Pitch détaillé
+Outils : Google Docs
+3 — Boucle de gameplay
+Outils : Miro / Figma
+4 — Gameplay détaillé
+Outils : Notion, Google Sheets (équilibrage)
+5 — Progression du joueur
+Outils : Google Sheets, Notion
+6 — Personnages
+Outils : Blender / Aseprite
+7 — Environnements
+Outils : Photoshop, Blender
+8 — Interface
+Outils : Figma
+9 — Éléments artistiques
+Outils : Pinterest (références), Photoshop
+10 — Éléments sonores
+Outils : Audacity, Reaper, FL Studio
+11 — Technologies
+Outils : Unity / Godot, GitHub
+12 — Risques + solutions
+Outils : Notion (table de risques)
