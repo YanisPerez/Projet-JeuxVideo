@@ -18,7 +18,7 @@
 <details>
   <summary><h2>📆 2. PLANNING MOIS PAR MOIS</h2></summary>
   
-### Mois 1 — Pré-production (Bases + Prototype)
+<u><h3> Mois 1 — Pré-production (Bases + Prototype)</h3></u>
 
 **- GD**
 - Document du concept
