@@ -21,6 +21,7 @@ Documentation : Notion / Google Docs
 
 ## 📆 PLANNING MOIS PAR MOIS
 **Mois 1 — Pré-production (Bases + Prototype)**
+
 **GD**
 - Document du concept
 - Cahier des charges + boucle de gameplay
