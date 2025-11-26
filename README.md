@@ -20,7 +20,7 @@ Documentation : Notion / Google Docs
 ---
 
 ## 📆 PLANNING MOIS PAR MOIS
-**Mois 1 — Pré-production (Bases + Prototype)**
+### Mois 1 — Pré-production (Bases + Prototype)
 
 **GD**
 - Document du concept
@@ -51,10 +51,7 @@ Outils :
 YouTube audio library (références), Audacity, Reaper
 Livrable : mini prototype jouable 2–3 minutes.
 
---
-
-**Mois 2 — Développement du cœur du jeu**
-
+### Mois 2 — Développement du cœur du jeu
 **Dev 1**
 - Programmation mécaniques de base
 - Collisions, inventaire simple, interactions
@@ -83,8 +80,7 @@ Unity Tilemap (2D), ProBuilder (3D), Google Sheets (équilibrage)
 Ouils :
 Audacity, freesound.org, Reaper
 
-**Mois 3 — Contenu jouable**
-
+### Mois 3 — Contenu jouable
 **Dev 1**
 - IA basique
 - Feedbacks
@@ -113,8 +109,7 @@ Outils :
 FL Studio / LMMS, Reaper
 Livrable : version jouable de 30 à 60 min.
 
-**Mois 4 — Finalisation du contenu**
-
+### Mois 4 — Finalisation du contenu
 **Dev**
 - Fonctionnalités secondaires
 - Bugs majeurs
@@ -138,8 +133,7 @@ Google Forms (retours internes), Excel (équilibrage)
 Outils :
 Reaper, Audacity
 
-**Mois 5 — Optimisation + Test + Polish**
-
+### Mois 5 — Optimisation + Test + Polish
 **Dev**
 - Optimisation
 - Correction de bugs
@@ -162,8 +156,7 @@ Outils : Reaper
 Outils :
 Playtests enregistrés, Google Forms, Notion
 
-**Mois 6 — Finitions + Communication + Versions finales**
-
+### Mois 6 — Finitions + Communication + Versions finales
 **Dev**
 - Build final
 - Compatibilité plateformes
@@ -190,47 +183,92 @@ Canva, Google Slides, Notion
 
 ## 🎨 3. Liste complète d’assets graphiques à produire
 (Avec les outils pour chaque type)
-A. Personnages
+
+**A. Personnages**
 Modèle principal (Aseprite / Blender)
 Animations : idle, marche, course, action (Aseprite ou Blender)
-B. Environnements
+
+**B. Environnements**
 Sols, arbres, rochers (Photoshop / Blender / Aseprite)
 Météo (Unity Particle System)
-C. Objets
+
+**C. Objets**
 Panneaux solaires, compost, outils (Illustrator / Aseprite)
 Déchets (Aseprite)
-D. UI / Interface
+
+**D. UI / Interface**
 Icônes (Figma / Illustrator)
 Boutons, HUD (Figma)
-E. Effets visuels
+
+**E. Effets visuels**
 Particules (Unity VFX / Particle System)
 Transitions (Photoshop, Unity animations)
 
 ---
 
 ## 📘 4. GDD COMPLET (Game Design Document)
-(Avec outils recommandés pour remplir chaque section)
 1 — Informations générales
-Outils : Notion, Google Docs
+Titre du jeu :
+Concept en une phrase :
+Genre : (gestion, puzzle, exploration…)
+Plateforme : PC / Mobile
+Durée totale de jeu :
+Public visé :
 2 — Pitch détaillé
-Outils : Google Docs
-3 — Boucle de gameplay
-Outils : Miro / Figma
+Résumé du jeu (5 à 10 lignes)
+Thématique écologique centrale
+Objectif final du joueur
+3 — Boucle de gameplay (Core Loop)
+Exemple :
+Le joueur explore un environnement
+Récupère des ressources / déchets
+Purifie / restaure la nature
+Débloque de nouvelles zones
+Progresse
 4 — Gameplay détaillé
-Outils : Notion, Google Sheets (équilibrage)
+Mécaniques principales :
+Déplacement
+Interactions
+Gestion des ressources
+Résolution de puzzles
+Améliorations (si nécessaire)
+Mécaniques secondaires :
+Objets à collecter
+Système écologique (croissance plantes, pollution…)
 5 — Progression du joueur
-Outils : Google Sheets, Notion
+Niveau 1 :
+Niveau 2 :
+Niveau 3 :
+Boss / challenge final (si applicable)
 6 — Personnages
-Outils : Blender / Aseprite
+Description
+Objectifs / rôles
+Animations nécessaires
 7 — Environnements
-Outils : Photoshop, Blender
-8 — Interface
-Outils : Figma
+Zones du jeu
+Thème visuel
+Interactions possibles
+Cycle jour/nuit (optionnel)
+8 — Interface (UI/UX)
+HUD
+Menus
+Indicateurs visuels
+Feedbacks (sons, couleurs, vibrations)
 9 — Éléments artistiques
-Outils : Pinterest (références), Photoshop
+Style graphique
+Palette de couleurs
+Références artistiques
+Modèles 2D / 3D nécessaires
 10 — Éléments sonores
-Outils : Audacity, Reaper, FL Studio
-11 — Technologies
-Outils : Unity / Godot, GitHub
+Ambiances
+Bruitages
+Musiques
+Feedback audio
+11 — Technologies utilisées
+Moteur (Unity / Godot / Unreal)
+Gestion de version (GitHub / GitLab)
+Logiciels (Blender, Aseprite, Audacity…)
 12 — Risques + solutions
-Outils : Notion (table de risques)
+Retard : réduire les niveaux
+Trop d’assets : passer au style lowpoly
+Bugs : focus sur gameplay simple
