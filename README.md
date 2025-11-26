@@ -2,7 +2,7 @@
 
 ---
 
-## 📅 2. Planning détaillé sur 6 mois
+<summary>## 📅 2. Planning détaillé sur 6 mois</summary>
 
 **Répartition des rôles**
 - Game Designer (GD)
