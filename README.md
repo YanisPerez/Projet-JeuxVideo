@@ -209,78 +209,78 @@ Transitions (Photoshop, Unity animations)
 ## 📘 4. GDD COMPLET (Game Design Document)
 
 **1 — Informations générales**
-Titre du jeu :
-Concept en une phrase :
-Genre : (gestion, puzzle, exploration…)
-Plateforme : PC / Mobile
-Durée totale de jeu :
-Public visé :
+- Titre du jeu :
+- Concept en une phrase :
+- Genre : (gestion, puzzle, exploration…)
+- Plateforme : PC / Mobile
+- Durée totale de jeu :
+- Public visé :
 
 **2 — Pitch détaillé**
-Résumé du jeu (5 à 10 lignes)
-Thématique écologique centrale
-Objectif final du joueur
+- Résumé du jeu (5 à 10 lignes)
+- Thématique écologique centrale
+- Objectif final du joueur
 
 **3 — Boucle de gameplay (Core Loop)**
-Exemple :
-Le joueur explore un environnement
-Récupère des ressources / déchets
-Purifie / restaure la nature
-Débloque de nouvelles zones
-Progresse
+- Exemple :
+- Le joueur explore un environnement
+- Récupère des ressources / déchets
+- Purifie / restaure la nature
+- Débloque de nouvelles zones
+- Progresse
 
 **4 — Gameplay détaillé**
-Mécaniques principales :
-Déplacement
-Interactions
-Gestion des ressources
-Résolution de puzzles
-Améliorations (si nécessaire)
-Mécaniques secondaires :
-Objets à collecter
-Système écologique (croissance plantes, pollution…)
+- Mécaniques principales :
+- Déplacement
+- Interactions
+- Gestion des ressources
+- Résolution de puzzles
+- Améliorations (si nécessaire)
+- Mécaniques secondaires :
+- Objets à collecter
+- Système écologique (croissance plantes, pollution…)
 
 **5 — Progression du joueur**
-Niveau 1 :
-Niveau 2 :
-Niveau 3 :
-Boss / challenge final (si applicable)
+- Niveau 1 :
+- Niveau 2 :
+- Niveau 3 :
+- Boss / challenge final (si applicable)
 
 **6 — Personnages**
-Description
-Objectifs / rôles
-Animations nécessaires
+- Description
+- Objectifs / rôles
+- Animations nécessaires
 
 **7 — Environnements**
-Zones du jeu
-Thème visuel
-Interactions possibles
-Cycle jour/nuit (optionnel)
+- Zones du jeu
+- Thème visuel
+- Interactions possibles
+- Cycle jour/nuit (optionnel)
 
 **8 — Interface (UI/UX)**
-HUD
-Menus
-Indicateurs visuels
-Feedbacks (sons, couleurs, vibrations)
+- HUD
+- Menus
+- Indicateurs visuels
+- Feedbacks (sons, couleurs, vibrations)
 
 **9 — Éléments artistiques**
-Style graphique
-Palette de couleurs
-Références artistiques
-Modèles 2D / 3D nécessaires
+- Style graphique
+- Palette de couleurs
+- Références artistiques
+- Modèles 2D / 3D nécessaires
 
 **10 — Éléments sonores**
-Ambiances
-Bruitages
-Musiques
-Feedback audio
+- Ambiances
+- Bruitages
+- Musiques
+- Feedback audio
 
 **11 — Technologies utilisées**
-Moteur (Unity / Godot / Unreal)
-Gestion de version (GitHub / GitLab)
-Logiciels (Blender, Aseprite, Audacity…)
+- Moteur (Unity / Godot / Unreal)
+- Gestion de version (GitHub / GitLab)
+- Logiciels (Blender, Aseprite, Audacity…)
 
 **12 — Risques + solutions**
-Retard : réduire les niveaux
-Trop d’assets : passer au style lowpoly
-Bugs : focus sur gameplay simple
+- Retard : réduire les niveaux
+- Trop d’assets : passer au style lowpoly
+- Bugs : focus sur gameplay simple
