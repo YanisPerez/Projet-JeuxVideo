@@ -183,6 +183,7 @@ Canva, Google Slides, Notion
 
 <details>
   <summary><h2>🎨 3. Liste complète d’assets graphiques à produire</h2></summary>
+  
 (Avec les outils pour chaque type)
 
 **A. Personnages**
