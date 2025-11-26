@@ -1,4 +1,4 @@
-# 🌱 Projet de Jeu Vidéo Écologique — README
+# Projet de Jeu Vidéo Écologique — README
 
 ---
 
@@ -10,12 +10,6 @@
 - Dev 2 (Tech/UI)
 - Artiste
 - Sound Designer / Communication
-**🛠️ Outils généraux pour l’équipe :**
-Communication : Discord
-Stockage : Google Drive
-Gestion projet : Trello / Notion
-Versioning : GitHub / GitLab
-Documentation : Notion / Google Docs
 
 ---
 
