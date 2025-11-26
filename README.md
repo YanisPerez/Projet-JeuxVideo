@@ -225,8 +225,7 @@ Transitions (Photoshop, Unity animations)
 - Thématique écologique centrale
 - Objectif final du joueur
 
-**3 — Boucle de gameplay (Core Loop)**
-- Exemple :
+**3 — Boucle de gameplay**
 - Le joueur explore un environnement
 - Récupère des ressources / déchets
 - Purifie / restaure la nature
@@ -239,7 +238,7 @@ Transitions (Photoshop, Unity animations)
 - Interactions
 - Gestion des ressources
 - Résolution de puzzles
-- Améliorations (si nécessaire)
+- Améliorations
 - Mécaniques secondaires :
 - Objets à collecter
 - Système écologique (croissance plantes, pollution…)
@@ -248,7 +247,6 @@ Transitions (Photoshop, Unity animations)
 - Niveau 1 :
 - Niveau 2 :
 - Niveau 3 :
-- Boss / challenge final (si applicable)
 
 **6 — Personnages**
 - Description
@@ -259,7 +257,7 @@ Transitions (Photoshop, Unity animations)
 - Zones du jeu
 - Thème visuel
 - Interactions possibles
-- Cycle jour/nuit (optionnel)
+- Cycle jour/nuit
 
 **8 — Interface (UI/UX)**
 - HUD
@@ -280,7 +278,7 @@ Transitions (Photoshop, Unity animations)
 - Feedback audio
 
 **11 — Technologies utilisées**
-- Moteur (Unity / Godot / Unreal)
+- Moteur (Unity)
 - Gestion de version (GitHub / GitLab)
 - Logiciels (Blender, Aseprite, Audacity…)
 
