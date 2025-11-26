@@ -2,7 +2,7 @@
 
 ---
 <details>
-  <summary>## 📅 2. Planning détaillé sur 6 mois</summary>
+  <summary><h2>📅 Planning détaillé sur 6 mois</h2></summary>
 
 **Répartition des rôles**
 - Game Designer (GD)
@@ -11,6 +11,7 @@
 - Artiste
 - Sound Designer / Communication
 </details>
+
 ---
 
 ## 📆 PLANNING MOIS PAR MOIS
