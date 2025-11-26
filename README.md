@@ -1,4 +1,4 @@
-# Projet de Jeu Vidéo Écologique — README
+# Projet de Jeu Vidéo Écologique
 
 ---
 
