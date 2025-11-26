@@ -14,7 +14,8 @@
 
 ---
 
-## 📆 PLANNING MOIS PAR MOIS
+<details>
+  <summary><h2>📆 PLANNING MOIS PAR MOIS</h2></summary>
 ### Mois 1 — Pré-production (Bases + Prototype)
 
 **- GD**
@@ -174,6 +175,7 @@ Reaper
 - Dossier de présentation projet
 Outils :
 Canva, Google Slides, Notion
+</details>
 
 ---
 
