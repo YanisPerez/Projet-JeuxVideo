@@ -289,12 +289,8 @@ Transitions (Photoshop, Unity animations)
 </details>
 
 
-gantt
-    title Planning de Production - 6 Mois
-    dateFormat  YYYY-MM-DD
-    axisFormat  %b
 
-    %% Mois 1
+%% Mois 1
     section Mois 1 — Pré-production
     Concept + Cahier des charges (GD)        :active, gd1, 2025-01-01, 30d
     Prototype minimal (Dev 1)                :dev1, 2025-01-05, 25d
