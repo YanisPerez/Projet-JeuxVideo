@@ -29,24 +29,24 @@ Outils : Notion, Google Docs, Figma (croquis UI)
 **- Dev 1**
 - Prototype minimal (déplacements, interactions)
 Outils :
-Unity ou Godot, Visual Studio Code / Rider
+Unity ou Godot, Visual Studio Code
 
 **- Dev 2**
 - Mise en place du projet (Unity/Godot)
 - Gestion des inputs + caméras
 Outils :
-Unity Input System, GitHub pour le versioning
+Unity Input System
 
 **- Artiste**
 - Tests de style graphique
 - Concept arts + premiers assets simples
 Outils :
-Aseprite (2D), Photoshop/Krita, Blender (si 3D)
+Aseprite (2D), Photoshop, Blender (si 3D)
 
 **- Sound**
 - Recherches sonores + ambiance générale
 Outils :
-YouTube audio library (références), Audacity, Reaper
+YouTube audio library, Audacity, Reaper
 Livrable : mini prototype jouable 2–3 minutes.
 
 ### Mois 2 — Développement du cœur du jeu
