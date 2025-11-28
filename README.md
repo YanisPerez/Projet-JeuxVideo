@@ -10,7 +10,7 @@
 - Dev 1 (Gameplay)
 - Dev 2 (Tech/UI)
 - Artiste
-- Sound Designer / Communication
+- Sound Designer
 </details>
 
 ---
