@@ -219,6 +219,9 @@ Transitions (Photoshop, Unity animations)
 - Plateforme : PC / Mobile
 - Durée totale de jeu :
 - Public visé :
+- Pourquoi le joueur joue ?
+- Qu’est-ce qu’il apprend ?
+- Quelle émotion tu veux transmettre ?
 
 **2 — Pitch détaillé**
 - Résumé du jeu (5 à 10 lignes)
