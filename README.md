@@ -29,7 +29,7 @@ Outils : Notion, Google Docs, Figma (croquis UI)
 **- Dev 1**
 - Prototype minimal (déplacements, interactions)
 Outils :
-Unity ou Godot, Visual Studio Code
+Unity, Visual Studio Code
 
 **- Dev 2**
 - Mise en place du projet (Unity/Godot)
