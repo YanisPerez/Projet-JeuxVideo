@@ -32,7 +32,7 @@ Outils :
 Unity, Visual Studio Code
 
 **- Dev 2**
-- Mise en place du projet (Unity/Godot)
+- Mise en place du projet (Unity)
 - Gestion des inputs + caméras
 Outils :
 Unity Input System
@@ -41,7 +41,7 @@ Unity Input System
 - Tests de style graphique
 - Concept arts + premiers assets simples
 Outils :
-Aseprite (2D), Photoshop, Blender (si 3D)
+Aseprite (2D), Photoshop, Blender (3D)
 
 **- Sound**
 - Recherches sonores + ambiance générale
@@ -60,7 +60,7 @@ Unity (collisions 2D/3D), C#, Rider/VSCode
 - UI de base (menus, HUD)
 - Système de sauvegarde
 Outils :
-Figma (UI mockups), Unity UI Toolkit, PlayerPrefs / JSON
+Figma (UI mockups), Unity UI Toolkit, PlayerPrefs
 
 **- Artiste**
 - Assets principaux
@@ -71,7 +71,7 @@ Blender (animations), Aseprite (sprites), Photoshop
 **- GD**
 - Level design des 2 premiers niveaux
 Outils :
-Unity Tilemap (2D), ProBuilder (3D), Google Sheets (équilibrage)
+Unity Tilemap (2D), ProBuilder (3D)
 
 **- Sound**
 - Bruitages de base (pas, objets, interface)
