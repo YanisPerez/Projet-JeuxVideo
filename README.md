@@ -3,7 +3,7 @@
 ---
 
 <details>
-  <summary><h2>📅 1. Répartition des rôles</h2></summary>
+  <summary><h2>👨‍💻 1. Répartition des rôles</h2></summary>
 
 **Répartition des rôles**
 - Game Designer (GD)
