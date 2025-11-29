@@ -190,6 +190,7 @@
     </td>
   </tr>
 </table>
+</details>
 
 ---
 
