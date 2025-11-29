@@ -258,7 +258,111 @@ Transitions (Photoshop, Unity animations)
 ---
 
 <details>
-  <summary><h2>📘 5. GDD COMPLET (Game Design Document)</h2></summary>
+  <summary><h2>📘 5. EXEMPLE DE DA</h2></summary>
+    
+**1. Styles 2D**
+- Pixel Art
+
+Pixelisé, rétro, inspiré 8–16 bits
+Exemples : Celeste, Stardew Valley
+
+- Vector Art
+
+Formes propres, couleurs plates, lignes nettes
+Exemples : Hollow Knight, Badland
+
+- Hand-drawn / Dessiné à la main
+
+Style cartoon ou illustratif, souvent très artistique
+Exemples : Cuphead, Ori & the Blind Forest
+
+- Flat Design
+
+Minimaliste, peu de détails, couleurs simples
+Exemples : Alto’s Adventure
+
+- Paper-cut / Paper Craft
+
+Effet papier découpé ou collage
+Exemples : Paper Mario, Tearaway
+
+**2. Styles 3D**
+- Low Poly
+
+Peu de polygones, look minimaliste
+Exemples : Kingdom, Poly Bridge
+
+- High Poly / Réaliste
+
+Beaucoup de détails, textures haute qualité
+Exemples : The Last of Us, Red Dead Redemption 2
+
+- Cel Shading
+
+Effet bande dessinée / anime
+Exemples : Zelda Wind Waker, Borderlands
+
+- Stylized (Stylisé)
+
+Pas réaliste mais détaillé, couleurs fortes
+Exemples : Fortnite, Overwatch
+
+- Photorealiste
+
+Recherche de réalisme quasi photographique
+Exemples : Gran Turismo, Battlefield
+
+- Toon shader
+
+Très cartoon, contours marqués
+Exemples : Naruto Ninja Storm
+
+**3. Styles hybrides ou expérimentaux**
+- Mixed Media
+
+Mélange 2D/3D, parfois stop-motion
+Exemples : The Neverhood, LittleBigPlanet
+
+- Minimaliste / Abstract
+
+Formes simples, symboliques
+Exemples : Journey, Thomas Was Alone
+
+- Surréaliste / Psychédélique
+
+Déformations, couleurs intenses
+Exemples : Control, Rez, Antichamber
+
+- Peinture / Aquarelle
+
+Aspect tableau, textures peintes
+Exemples : Okami, Child of Light
+
+- Retro 3D (PS1 / PS2 style)
+
+Effet low-res, textures floues, look années 90
+Exemples : Paratopic, Back in 1995
+
+**4. Styles techniques**
+- Voxel Art
+
+Comme des cubes (style Minecraft)
+Exemples : Minecraft, Trove
+
+- Procedural / Génératif
+
+Visuels créés via algorithmes
+Exemples : No Man’s Sky
+
+- Wireframe
+
+Modèles 3D en lignes (style très rétro)
+Exemples : Elite (1984)
+</details>
+
+---
+<details>
+  <summary><h2>📘 6. GDD COMPLET (Game Design Document)</h2></summary>
 
 **1 — Informations générales**
 - Titre du jeu :
