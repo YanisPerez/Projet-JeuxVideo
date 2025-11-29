@@ -259,15 +259,19 @@ Transitions (Photoshop, Unity animations)
 
 <details>
   <summary><h2>🕹️ 5. EXEMPLE DE DA</h2></summary>
-    
+
+    # 🎨 Styles graphiques de jeux vidéo (version compacte complète)
+
 | Style | Image | Description |
 |-------|--------|-------------|
 | **Pixel Art** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Celeste_screenshot_05.png" width="180"> | Pixelisé, rétro, inspiré 8–16 bits (ex : Celeste, Stardew Valley) |
-| **Vector / Flat Design** | <img src="https://admin.itsnicethat.com/images/4BomiQz-gPjFAYlde7dX_DtUz-Q%3D/260534/format-webp%7Cwidth-2880/monument_valley_3_ustwo_games_digital_itsnicethat_MV3_KeyArt_4x5.png" width="180"> | Formes propres, couleurs plates (ex : Monument Valley) |
+| **Vector Art** | <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Hollow_Knight_screenshot.png" width="180"> | Formes géométriques nettes, lignes et courbes vectorielles, agrandissables sans perte (ex : Hollow Knight, Badland) |
+| **Flat Design** | <img src="https://admin.itsnicethat.com/images/4BomiQz-gPjFAYlde7dX_DtUz-Q%3D/260534/format-webp%7Cwidth-2880/monument_valley_3_ustwo_games_digital_itsnicethat_MV3_KeyArt_4x5.png" width="180"> | Minimaliste, couleurs uniformes et surfaces plates, lisible et épuré (ex : Monument Valley, Alto’s Adventure) |
+| **Paper-cut / Paper Craft** | <img src="https://upload.wikimedia.org/wikipedia/en/7/7d/Paper_Mario_Sticker_Star_artwork.png" width="180"> | Style papier découpé ou collage, look artisanal et coloré (ex : Paper Mario, Tearaway) |
 | **Hand-drawn / Dessiné à la main** | <img src="https://game.info.intel.com/hs-fs/hubfs/07.%2010%20GAP%20Cuphead/Cuphead%20article/cuphead_screenshot_0002.png?width=800" width="180"> | Style illustratif ou cartoon dessiné à la main (ex : Cuphead, Ori) |
-| **Low Poly (3D)** | <img src="https://www.openxcell.com/wp-content/uploads/2015/02/Low-poly-game-art-trends-and-exemplary-games.webp" width="180"> | Peu de polygones, style géométrique minimaliste (ex : Poly Bridge) |
-| **Minimaliste / Abstrait** | <img src="https://readingatrecess.com/wp-content/uploads/2014/08/thomas_was_alone_screenshot.png" width="180"> | Formes simples, très épuré (ex : Thomas Was Alone, Journey) |
-| **Retro 3D (PS1/PS2)** | <img src="https://i.ytimg.com/vi/ONueU-P8qPg/hq720.jpg" width="180"> | Effet low-res, textures floues, années 90 (ex : Paratopic) |
+| **Low Poly (3D)** | <img src="https://www.openxcell.com/wp-content/uploads/2015/02/Low-poly-game-art-trends-and-exemplary-games.webp" width="180"> | Peu de polygones, style géométrique minimaliste (ex : Poly Bridge, Kingdom) |
+| **Minimaliste / Abstract** | <img src="https://readingatrecess.com/wp-content/uploads/2014/08/thomas_was_alone_screenshot.png" width="180"> | Formes simples et stylisées, très épuré (ex : Thomas Was Alone, Journey) |
+| **Retro 3D (PS1/PS2)** | <img src="https://i.ytimg.com/vi/ONueU-P8qPg/hq720.jpg" width="180"> | Effet low-res, textures floues, look années 90 (ex : Paratopic, Back in 1995) |
 | **Voxel Art** | <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/5/4/f/54f197b07f39c7a2373ec82ca3754dc4f0d358f0.jpeg" width="180"> | Graphismes en cubes volumétriques (ex : Minecraft, Trove) |
 </details>
 
