@@ -20,15 +20,12 @@
   
 | Rôle | Tâches | Outils / Applications |
 |------|--------|--------------------|
-| **Game Designer (GD)** | - Document du concept<br>- Cahier des charges + boucle de gameplay<br>- Croquis des niveaux (maquettes UI sur Figma)<br>- Level design des 2 premiers niveaux<br>- Création des niveaux + scripts d’événements<br>- Ajustement du gameplay<br>- Tests internes (collecter les retours)<br>- Tests utilisateurs + corrections<br>- Dossier de présentation du projet | - Notion<br> -Google Docs<br> - Figma<br> - Unity Tilemap (2D) / ProBuilder (3D)<br> - Google Sheets (équilibrage)<br> - Unity Timeline<br> - Google Forms<br> - Excel<br> - Canva<br> - Google Slides |
-
+| **Game Designer (GD)** | - Document du concept<br>- Cahier des charges + boucle de gameplay<br>- Croquis des niveaux (maquettes UI sur Figma)<br>- Level design des 2 premiers niveaux<br>- Création des niveaux + scripts d’événements<br>- Ajustement du gameplay<br>- Tests internes (collecter les retours)<br>- Tests utilisateurs + corrections<br>- Dossier de présentation du projet | Notion, Google Docs, Figma, Unity Tilemap (2D) / ProBuilder (3D), Google Sheets (équilibrage), Unity Timeline, Google Forms, Excel, Canva, Google Slides |
 | **Dev 1 (Gameplay Programmer)** | - Prototype minimal (déplacements, interactions)<br>- Programmation des mécaniques de base<br>- Collisions, inventaire, interactions<br>- IA basique<br>- Feedbacks (retours visuels/sons liés au gameplay)<br>- Fonctionnalités secondaires<br>- Correction des bugs majeurs<br>- Optimisation du gameplay<br>- Ajustement de la difficulté | Unity, C#, Visual Studio Code / Rider, Unity Collisions 2D/3D, Unity NavMesh (IA si 3D), Unity Profiler, Deep Profiling, GitHub / GitHub Issues |
-
 | **Dev 2 (Tech / UI Programmer)** | - Mise en place du projet (Unity/Godot)<br>- Gestion des inputs + caméras<br>- UI de base (menus, HUD)<br>- Système de sauvegarde (JSON, PlayerPrefs)<br>- Intégration des assets artistiques<br>- Polish UI<br>- Fonctionnalités secondaires tech<br>- Correction de bugs<br>- Optimisation technique<br>- Build final + compatibilité plateformes | Unity, Unity Input System, Unity UI Toolkit / Canvas, Figma (UI mockups fournis par GD), JSON / PlayerPrefs, GitHub, Unity Profiler, Unity Build Tools, itch.io / Steamworks |
-
 | **Artiste (2D/3D)** | - Tests de style graphique<br>- Concept arts<br>- Premiers assets simples<br>- Création des assets principaux<br>- Animations simples<br>- Nouveaux environnements<br>- Effets visuels simples<br>- UI définitive (style visuel + icons)<br>- Polissage graphique<br>- Optimisation textures<br>- Petits effets visuels<br>- Trailer du jeu<br>- Screenshots officiels | Aseprite (2D), Photoshop, Blender (3D, animations), Unity Particle System, TexturePacker, Unity VFX, Premiere Pro / DaVinci Resolve, OBS Studio |
-
 | **Sound Designer** | - Recherches sonores + ambiance générale<br>- Bruitages de base (pas, objets, interface)<br>- Musique d’ambiance 1 & 2<br>- Musiques finales<br>- Bruitages restants<br>- Mastering audio<br>- Mix final pour le trailer | YouTube Audio Library, Audacity, Reaper, freesound.org, FL Studio / LMMS |
+
 </details>
 
 ---
