@@ -20,8 +20,8 @@
   
 **1 — GAME DESIGNER (GD)**
 
-⭐ Tâches
-- Document du concept
+⭐ Tâches                                                                                        🛠️ Outils utilisés
+- Document du concept                                                            
 - Cahier des charges + boucle de gameplay
 - Croquis des niveaux (maquettes UI sur Figma)
 - Level design des 2 premiers niveaux
