@@ -16,7 +16,7 @@
 ---
 
 <details>
-  <summary><h2>📆 1. PLANNING PAR RÔLE</h2></summary>
+  <summary><h2>📆 1. PLANNING PAR RÔLE ET TÂCHES COMMUNES</h2></summary>
   
 | Rôle | Tâches | Outils / Applications |
 |------|--------|--------------------|
@@ -25,6 +25,39 @@
 | **Dev 2 (Tech / UI Programmer)** | - Mise en place du projet (Unity/Godot)<br>- Gestion des inputs + caméras<br>- UI de base (menus, HUD)<br>- Système de sauvegarde (JSON, PlayerPrefs)<br>- Intégration des assets artistiques<br>- Polish UI<br>- Fonctionnalités secondaires tech<br>- Correction de bugs<br>- Optimisation technique<br>- Build final + compatibilité plateformes | Unity, Unity Input System, Unity UI Toolkit / Canvas, Figma (UI mockups fournis par GD), JSON / PlayerPrefs, Unity Profiler, Unity Build Tools, itch.io / Steamworks |
 | **Artiste (2D/3D)** | - Tests de style graphique<br>- Concept arts<br>- Premiers assets simples<br>- Création des assets principaux<br>- Animations simples<br>- Nouveaux environnements<br>- Effets visuels simples<br>- UI définitive (style visuel + icons)<br>- Polissage graphique<br>- Optimisation textures<br>- Petits effets visuels<br>- Trailer du jeu<br>- Screenshots officiels | Aseprite (2D), Photoshop, Blender (3D, animations), Unity Particle System, TexturePacker, Unity VFX, Premiere Pro, OBS Studio |
 | **Sound Designer** | - Recherches sonores + ambiance générale<br>- Bruitages de base (pas, objets, interface)<br>- Musique d’ambiance 1 & 2<br>- Musiques finales<br>- Bruitages restants<br>- Mastering audio<br>- Mix final pour le trailer | YouTube Audio Library, Audacity, Reaper, freesound.org, FL Studio|
+
+| Tâche / Domaine                           | Rôles impliqués                    | Type de collaboration |
+|-------------------------------------------|------------------------------------|------------------------|
+| Document du concept                       | GD, Artiste                        | Le GD définit, l’artiste illustre |
+| Cahier des charges + gameplay loop        | GD, Dev 1, Dev 2                   | Le GD décrit, les Devs valident faisabilité |
+| Croquis & style graphique                 | GD, Artiste                        | Alignement direction artistique |
+| Prototype minimal                         | GD, Dev 1                          | GD définit, Dev 1 implémente |
+| Mise en place du projet Unity             | Dev 1, Dev 2                       | Partage de structure & conventions |
+| Intégration premiers assets               | Dev 1, Artiste                     | Artiste produit, Dev intègre |
+| Recherches ambiance sonore                | Sound, GD                          | Co-définition de l’ambiance |
+| Mécaniques de base (collisions, inventaire) | GD, Dev 1                        | Le GD décrit, Dev 1 code |
+| UI de base (menus, HUD)                   | Dev 2, Artiste, GD                 | Artiste design, Dev implémente, GD valide |
+| Système de sauvegarde                     | Dev 2, GD                          | Ajustements selon besoins gameplay |
+| Level design premiers niveaux             | GD, Artiste, Dev 1/2               | GD design, artiste crée assets, Dev place |
+| Bruitages de base                         | Sound, Devs                        | Sound crée, Devs intègrent |
+| IA basique                                | GD, Dev 1                          | GD définit comportements, Dev code |
+| Intégration assets + polish UI            | Dev 2, Artiste                     | Ajustements continus des visuels |
+| Création des niveaux                      | GD, Dev 1/2, Artiste               | Production conjointe gameplay + visuels |
+| Scripts d’événements                      | GD, Dev 1                          | GD décrit, Dev code |
+| Nouveaux environnements                   | Artiste, GD, Devs                  | Cohérence entre level design et assets |
+| Effets visuels                            | Artiste, Dev 2                     | Artiste produit, Dev intègre |
+| Musiques d’ambiance                       | Sound, GD                          | Direction musicale fixée par GD |
+| Fonctionnalités secondaires + debug       | Devs, GD                           | Ajustements selon tests |
+| UI définitive                             | Artiste, Dev 2, GD                 | Design + implémentation + validation |
+| Ajustement du gameplay                    | GD, Devs                           | Boucles de tests internes |
+| Musiques finales + bruitages restants     | Sound, GD, Devs                    | Ajustements selon niveaux |
+| Optimisation (perf, textures, VFX)        | Devs, Artiste                      | Travail commun sur performance & visuels |
+| Mastering audio                           | Sound, GD                          | Validation selon intention du jeu |
+| Tests utilisateurs + corrections          | GD, Devs, Artiste, Sound           | Tous concernés par retours |
+| Build final + compatibilité plateformes   | Devs, GD                           | Tests, validation, réglages |
+| Trailer du jeu                            | Artiste, Sound, GD                 | Vidéo + audio + narration |
+| Dossier de présentation                   | GD, Artiste                        | Contenu + visuels |
+
 
 </details>
 
