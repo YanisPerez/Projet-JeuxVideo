@@ -35,7 +35,7 @@
 - Dossier de présentation du projet</p>
     </td>
     <td>
-      <p><h3>🛠️ Outils utilisés</h3><br>
+      <p><h3>🛠️ Outils utilisés</h3>
 - Notion<br>
 - Google Docs<br>
 - Figma<br>
@@ -55,7 +55,7 @@
 <table>
   <tr>
     <td>
-      <p><h3>⭐ Tâches</h3><br>
+      <p><h3>⭐ Tâches</h3>
 - Prototype minimal (déplacements, interactions)<br>
 - Programmation des mécaniques de base<br>
 - Collisions, inventaire, interactions<br>
@@ -67,7 +67,7 @@
 - Ajustement de la difficulté</p>
     </td>
     <td>
-      <p><h3>🛠️ Outils utilisés</h3><br>
+      <p><h3>🛠️ Outils utilisés</h3>
 - Unity<br>
 - C#<br>
 - Visual Studio Code / Rider<br>
@@ -86,7 +86,7 @@
   <tr>
     <td>
       <p><h3>⭐ Tâches</h3><br>
-- Mise en place du projet (Unity/Godot)<br>
+- Mise en place du projet (Unity/Godot)
 - Gestion des inputs + caméras<br>
 - UI de base (menus, HUD)<br>
 - Système de sauvegarde (JSON, PlayerPrefs)<br>
@@ -98,7 +98,7 @@
 - Build final + compatibilité plateformes</p>
     </td>
     <td>
-      <p><h3>🛠️ Outils utilisés</h3><br>
+      <p><h3>🛠️ Outils utilisés</h3>
 - Unity<br>
 - Unity Input System<br>
 - Unity UI Toolkit / Canvas<br>
@@ -117,7 +117,7 @@
 <table>
   <tr>
     <td>
-      <p><h3>⭐ Tâches</h3><br>
+      <p><h3>⭐ Tâches</h3>
 - Tests de style graphique<br>
 - Concept arts<br>
 - Premiers assets simples<br>
@@ -133,7 +133,7 @@
 - Screenshots officiels</p>
     </td>
     <td>
-      <p><h3>🛠️ Outils utilisés</h3><br>
+      <p><h3>🛠️ Outils utilisés</h3>
 - Aseprite (2D)<br>
 - Photoshop<br>
 - Blender (3D, animations)<br>
@@ -152,7 +152,7 @@
 <table>
   <tr>
     <td>
-      <p><h3>⭐ Tâches</h3><br>
+      <p><h3>⭐ Tâches</h3>
 - Recherches sonores + ambiance générale<br>
 - Bruitages de base (pas, objets, interface)<br>
 - Musique d’ambiance 1 & 2<br>
@@ -162,7 +162,7 @@
 - Mix final pour le trailer</p>
     </td>
     <td>
-      <p><h3>🛠️ Outils utilisés</h3><br>
+      <p><h3>🛠️ Outils utilisés</h3>
 - YouTube Audio Library<br>
 - Audacity<br>
 - Reaper<br>
