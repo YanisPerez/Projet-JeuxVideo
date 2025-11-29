@@ -35,7 +35,7 @@
 - Dossier de présentation du projet</p>
     </td>
     <td>
-      <p>🛠️ Outils utilisés
+      <p>🛠️ Outils utilisés<br>
 - Notion<br>
 - Google Docs<br>
 - Figma<br>
