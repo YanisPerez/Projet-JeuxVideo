@@ -260,54 +260,65 @@ Transitions (Photoshop, Unity animations)
 <details>
   <summary><h2>🕹️ 5. EXEMPLE DE DA</h2></summary>
     
-**1. Styles 2D**
-- Pixel Art
+# 🎨 Styles graphiques de jeux vidéo
 
-Pixelisé, rétro, inspiré 8–16 bits
-Exemples : Celeste, Stardew Valley
+## Styles 2D
 
-- Vector Art
+### Pixel Art
+| Style | Exemple visuel | Description |
+|-------|----------------|-------------|
+| **Pixel Art** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Celeste_screenshot_05.png" width="300"> | Pixelisé, rétro, inspiré des jeux 8–16 bits (ex : Celeste, Stardew Valley) |
 
-Formes propres, couleurs plates, lignes nettes
-Exemples : Hollow Knight, Badland
+---
 
-- Hand-drawn / Dessiné à la main
+### Vector Art / Flat Design
+| Style | Exemple visuel | Description |
+|-------|----------------|-------------|
+| **Vector / Flat** | <img src="https://admin.itsnicethat.com/images/4BomiQz-gPjFAYlde7dX_DtUz-Q%3D/260534/format-webp%7Cwidth-2880/monument_valley_3_ustwo_games_digital_itsnicethat_MV3_KeyArt_4x5.png" width="300"> | Formes nettes, couleurs plates, style propre et minimaliste (ex : Monument Valley) |
 
-Style cartoon ou illustratif, souvent très artistique
-Exemples : Cuphead, Ori & the Blind Forest
+---
 
-- Flat Design
+### Hand-drawn / Dessiné à la main
+| Style | Exemple visuel | Description |
+|-------|----------------|-------------|
+| **Hand-drawn** | <img src="https://game.info.intel.com/hs-fs/hubfs/07.%2010%20GAP%20Cuphead/Cuphead%20article/cuphead_screenshot_0002.png?name=cuphead_screenshot_0002.png&width=1920" width="300"> | Style illustratif ou cartoon dessiné à la main (ex : Cuphead, Ori) |
 
-Minimaliste, peu de détails, couleurs simples
-Exemples : Alto’s Adventure
+---
 
-- Paper-cut / Paper Craft
+## Styles 3D
 
-Effet papier découpé ou collage
-Exemples : Paper Mario, Tearaway
+### Low Poly
+| Style | Exemple visuel | Description |
+|-------|----------------|-------------|
+| **Low Poly** | <img src="https://www.openxcell.com/wp-content/uploads/2015/02/Low-poly-game-art-trends-and-exemplary-games.webp" width="300"> | Peu de polygones, rendu minimaliste et géométrique (ex : Poly Bridge) |
 
-**2. Styles 3D**
-- Low Poly
+---
 
-Peu de polygones, look minimaliste
-Exemples : Kingdom, Poly Bridge
+## Styles hybrides / expérimentaux
 
-**3. Styles hybrides ou expérimentaux**
-- Minimaliste / Abstract
+### Minimaliste / Abstract
+| Style | Exemple visuel | Description |
+|-------|----------------|-------------|
+| **Minimaliste / Abstract** | <img src="https://readingatrecess.com/wp-content/uploads/2014/08/thomas_was_alone_screenshot.png" width="300"> | Formes simples, concept visuel épuré (ex : Journey, Thomas Was Alone) |
 
-Formes simples, symboliques
-Exemples : Journey, Thomas Was Alone
+---
 
-- Retro 3D (PS1 / PS2 style)
+### Retro 3D (style PS1 / PS2)
+| Style | Exemple visuel | Description |
+|-------|----------------|-------------|
+| **Retro 3D (PS1/PS2)** | <img src="https://i.ytimg.com/vi/ONueU-P8qPg/hq720.jpg" width="300"> | Textures low-res, modèles anguleux, rendu années 90 (ex : Paratopic) |
 
-Effet low-res, textures floues, look années 90
-Exemples : Paratopic, Back in 1995
+---
 
-**4. Styles techniques**
-- Voxel Art
+## Styles techniques
 
-Comme des cubes (style Minecraft)
-Exemples : Minecraft, Trove
+### Voxel Art
+| Style | Exemple visuel | Description |
+|-------|----------------|-------------|
+| **Voxel Art** | <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/5/4/f/54f197b07f39c7a2373ec82ca3754dc4f0d358f0.jpeg" width="300"> | Style en cubes volumétriques (ex : Minecraft, Trove) |
+
+---
+
 </details>
 
 ---
