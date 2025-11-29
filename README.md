@@ -167,11 +167,11 @@
 - Audacity<br>
 - Reaper<br>
 - freesound.org<br>
-- FL Studio / LMMS<br>
-</details></p>
+- FL Studio / LMMS</p>
     </td>
   </tr>
 </table>
+</details>
 
 ---
 
