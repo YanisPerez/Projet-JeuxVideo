@@ -20,7 +20,10 @@
   
 **1 — GAME DESIGNER (GD)**
 
-<span>⭐ Tâches
+<table>
+  <tr>
+    <td>
+      <p>⭐ Tâches
 - Document du concept                                                            
 - Cahier des charges + boucle de gameplay
 - Croquis des niveaux (maquettes UI sur Figma)
@@ -29,11 +32,10 @@
 - Ajustement du gameplay
 - Tests internes (collecter les retours)
 - Tests utilisateurs + corrections
-- Dossier de présentation du projet
-</span>
-
-<span>
-🛠️ Outils utilisés
+- Dossier de présentation du projet</p>
+    </td>
+    <td>
+      <p>🛠️ Outils utilisés
 - Notion
 - Google Docs
 - Figma
@@ -43,8 +45,10 @@
 - Google Forms
 - Excel
 - Canva
-- Google Slides
-</span>
+- Google Slides</p>
+    </td>
+  </tr>
+</table>
 
 **2 — DEV 1 (Gameplay Programmer)**
 
