@@ -293,25 +293,10 @@ Peu de polygones, look minimaliste
 Exemples : Kingdom, Poly Bridge
 
 **3. Styles hybrides ou expérimentaux**
-- Mixed Media
-
-Mélange 2D/3D, parfois stop-motion
-Exemples : The Neverhood, LittleBigPlanet
-
 - Minimaliste / Abstract
 
 Formes simples, symboliques
 Exemples : Journey, Thomas Was Alone
-
-- Surréaliste / Psychédélique
-
-Déformations, couleurs intenses
-Exemples : Control, Rez, Antichamber
-
-- Peinture / Aquarelle
-
-Aspect tableau, textures peintes
-Exemples : Okami, Child of Light
 
 - Retro 3D (PS1 / PS2 style)
 
@@ -323,16 +308,6 @@ Exemples : Paratopic, Back in 1995
 
 Comme des cubes (style Minecraft)
 Exemples : Minecraft, Trove
-
-- Procedural / Génératif
-
-Visuels créés via algorithmes
-Exemples : No Man’s Sky
-
-- Wireframe
-
-Modèles 3D en lignes (style très rétro)
-Exemples : Elite (1984)
 </details>
 
 ---
