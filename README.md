@@ -23,7 +23,8 @@
 <table>
   <tr>
     <td>
-      <p><h3>⭐ Tâches</h3>
+      <p>
+<h3>⭐ Tâches</h3>
 - Document du concept<br>                                                            
 - Cahier des charges + boucle de gameplay<br>
 - Croquis des niveaux (maquettes UI sur Figma)<br>
@@ -32,10 +33,12 @@
 - Ajustement du gameplay<br>
 - Tests internes (collecter les retours)<br>
 - Tests utilisateurs + corrections<br>
-- Dossier de présentation du projet</p>
+- Dossier de présentation du projet
+      </p>
     </td>
     <td>
-      <p><h3>🛠️ Outils utilisés</h3>
+      <p>
+<h3>🛠️ Outils utilisés</h3>
 - Notion<br>
 - Google Docs<br>
 - Figma<br>
@@ -45,7 +48,8 @@
 - Google Forms<br>
 - Excel<br>
 - Canva<br>
-- Google Slides</p>
+- Google Slides
+      </p>
     </td>
   </tr>
 </table>
