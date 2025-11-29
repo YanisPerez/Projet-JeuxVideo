@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td>
-      <p>⭐ Tâches
+      <p>⭐ Tâches<br>
 - Document du concept<br>                                                            
 - Cahier des charges + boucle de gameplay<br>
 - Croquis des niveaux (maquettes UI sur Figma)<br>
