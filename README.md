@@ -20,125 +20,67 @@
   
 🎮 1 — GAME DESIGNER (GD)
 ⭐ Tâches
-
 Document du concept
-
 Cahier des charges + boucle de gameplay
-
 Croquis des niveaux (maquettes UI sur Figma)
-
 Level design des 2 premiers niveaux
-
 Création des niveaux + scripts d’événements
-
 Ajustement du gameplay
-
 Tests internes (collecter les retours)
-
 Tests utilisateurs + corrections
-
 Dossier de présentation du projet
-
 🛠️ Outils utilisés
-
 Notion
-
 Google Docs
-
 Figma
-
 Unity Tilemap (2D) / ProBuilder (3D)
-
 Google Sheets (équilibrage)
-
 Unity Timeline
-
 Google Forms
-
 Excel
-
 Canva
-
 Google Slides
-
 👨‍💻 2 — DEV 1 (Gameplay Programmer)
 ⭐ Tâches
-
 Prototype minimal (déplacements, interactions)
-
 Programmation des mécaniques de base
-
 Collisions, inventaire, interactions
-
 IA basique
-
 Feedbacks (retours visuels/sons liés au gameplay)
-
 Fonctionnalités secondaires
-
 Correction des bugs majeurs
-
 Optimisation du gameplay
-
 Ajustement de la difficulté
-
 🛠️ Outils utilisés
-
 Unity
-
 C#
-
 Visual Studio Code / Rider
-
 Unity Collisions 2D/3D
-
 Unity NavMesh (IA si 3D)
-
 Unity Profiler
-
 Deep Profiling
-
 GitHub / GitHub Issues
 
 👨‍💻 3 — DEV 2 (Tech / UI Programmer)
 ⭐ Tâches
-
 Mise en place du projet (Unity/Godot)
-
 Gestion des inputs + caméras
-
 UI de base (menus, HUD)
-
 Système de sauvegarde (JSON, PlayerPrefs)
-
 Intégration des assets artistiques
-
 Polish UI
-
 Fonctionnalités secondaires tech
-
 Correction de bugs
-
 Optimisation technique
-
 Build final + compatibilité plateformes
-
 🛠️ Outils utilisés
-
 Unity
-
 Unity Input System
-
 Unity UI Toolkit / Canvas
-
 Figma (UI mockups fournis par le GD)
-
 JSON / PlayerPrefs
-
 GitHub
-
 Unity Profiler
-
 Unity Build Tools
 
 itch.io / Steamworks
