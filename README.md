@@ -56,126 +56,140 @@
 
 **2 — DEV 1 (Gameplay Programmer)**
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <p><h3>⭐ Tâches</h3>
-- Prototype minimal (déplacements, interactions)<br>
-- Programmation des mécaniques de base<br>
-- Collisions, inventaire, interactions<br>
-- IA basique<br>
-- Feedbacks (retours visuels/sons liés au gameplay)<br>
-- Fonctionnalités secondaires<br>
-- Correction des bugs majeurs<br>
-- Optimisation du gameplay<br>
-- Ajustement de la difficulté</p>
+    <td width="50%">
+      <h3>⭐ Tâches</h3>
+      <ul>
+        <li>Prototype minimal (déplacements, interactions)</li>
+        <li>Programmation des mécaniques de base</li>
+        <li>Collisions, inventaire, interactions</li>
+        <li>IA basique</li>
+        <li>Feedbacks (retours visuels/sons liés au gameplay)</li>
+        <li>Fonctionnalités secondaires</li>
+        <li>Correction des bugs majeurs</li>
+        <li>Optimisation du gameplay</li>
+        <li>Ajustement de la difficulté</li>
+      </ul>
     </td>
-    <td>
-      <p><h3>🛠️ Outils utilisés</h3>
-- Unity<br>
-- C#<br>
-- Visual Studio Code / Rider<br>
-- Unity Collisions 2D/3D<br>
-- Unity NavMesh (IA si 3D)<br>
-- Unity Profiler<br>
-- Deep Profiling<br>
-- GitHub / GitHub Issues</p>
+    <td width="50%">
+      <h3>🛠️ Outils utilisés</h3>
+      <ul>
+        <li>Unity</li>
+        <li>C#</li>
+        <li>Visual Studio Code / Rider</li>
+        <li>Unity Collisions 2D/3D</li>
+        <li>Unity NavMesh (IA si 3D)</li>
+        <li>Unity Profiler</li>
+        <li>Deep Profiling</li>
+        <li>GitHub / GitHub Issues</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 **3 — DEV 2 (Tech / UI Programmer)**
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <p><h3>⭐ Tâches</h3><br>
-- Mise en place du projet (Unity/Godot)
-- Gestion des inputs + caméras<br>
-- UI de base (menus, HUD)<br>
-- Système de sauvegarde (JSON, PlayerPrefs)<br>
-- Intégration des assets artistiques<br>
-- Polish UI<br>
-- Fonctionnalités secondaires tech<br>
-- Correction de bugs<br>
-- Optimisation technique<br>
-- Build final + compatibilité plateformes</p>
+    <td width="50%">
+      <h3>⭐ Tâches</h3>
+      <ul>
+        <li>Mise en place du projet (Unity/Godot)</li>
+        <li>Gestion des inputs + caméras</li>
+        <li>UI de base (menus, HUD)</li>
+        <li>Système de sauvegarde (JSON, PlayerPrefs)</li>
+        <li>Intégration des assets artistiques</li>
+        <li>Polish UI</li>
+        <li>Fonctionnalités secondaires tech</li>
+        <li>Correction de bugs</li>
+        <li>Optimisation technique</li>
+        <li>Build final + compatibilité plateformes</li>
+      </ul>
     </td>
-    <td>
-      <p><h3>🛠️ Outils utilisés</h3>
-- Unity<br>
-- Unity Input System<br>
-- Unity UI Toolkit / Canvas<br>
-- Figma (UI mockups fournis par le GD)<br>
-- JSON / PlayerPrefs<br>
-- GitHub<br>
-- Unity Profiler<br>
-- Unity Build Tools<br>
-- itch.io / Steamworks</p>
+    <td width="50%">
+      <h3>🛠️ Outils utilisés</h3>
+      <ul>
+        <li>Unity</li>
+        <li>Unity Input System</li>
+        <li>Unity UI Toolkit / Canvas</li>
+        <li>Figma (UI mockups fournis par le GD)</li>
+        <li>JSON / PlayerPrefs</li>
+        <li>GitHub</li>
+        <li>Unity Profiler</li>
+        <li>Unity Build Tools</li>
+        <li>itch.io / Steamworks</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 **4 — ARTISTE (2D/3D Artist)**
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <p><h3>⭐ Tâches</h3>
-- Tests de style graphique<br>
-- Concept arts<br>
-- Premiers assets simples<br>
-- Création des assets principaux<br>
-- Animations simples<br>
-- Nouveaux environnements<br>
-- Effets visuels simples<br>
-- UI définitive (style visuel + icons)<br>
-- Polissage graphique<br>
-- Optimisation textures<br>
-- Petits effets visuels<br>
-- Trailer du jeu<br>
-- Screenshots officiels</p>
+    <td width="50%">
+      <h3>⭐ Tâches</h3>
+      <ul>
+        <li>Tests de style graphique</li>
+        <li>Concept arts</li>
+        <li>Premiers assets simples</li>
+        <li>Création des assets principaux</li>
+        <li>Animations simples</li>
+        <li>Nouveaux environnements</li>
+        <li>Effets visuels simples</li>
+        <li>UI définitive (style visuel + icônes)</li>
+        <li>Polissage graphique</li>
+        <li>Optimisation textures</li>
+        <li>Petits effets visuels</li>
+        <li>Trailer du jeu</li>
+        <li>Screenshots officiels</li>
+      </ul>
     </td>
-    <td>
-      <p><h3>🛠️ Outils utilisés</h3>
-- Aseprite (2D)<br>
-- Photoshop<br>
-- Blender (3D, animations)<br>
-- Unity Particle System<br>
-- TexturePacker<br>
-- Unity VFX<br>
-- Premiere Pro / DaVinci Resolve<br>
-- OBS Studio</p>
+    <td width="50%">
+      <h3>🛠️ Outils utilisés</h3>
+      <ul>
+        <li>Aseprite (2D)</li>
+        <li>Photoshop</li>
+        <li>Blender (3D, animations)</li>
+        <li>Unity Particle System</li>
+        <li>TexturePacker</li>
+        <li>Unity VFX</li>
+        <li>Premiere Pro / DaVinci Resolve</li>
+        <li>OBS Studio</li>
+      </ul>
     </td>
   </tr>
 </table>
-
 
 **5 — SOUND DESIGNER**
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <p><h3>⭐ Tâches</h3>
-- Recherches sonores + ambiance générale<br>
-- Bruitages de base (pas, objets, interface)<br>
-- Musique d’ambiance 1 & 2<br>
-- Musiques finales<br>
-- Bruitages restants<br>
-- Mastering audio<br>
-- Mix final pour le trailer</p>
+    <td width="50%">
+      <h3>⭐ Tâches</h3>
+      <ul>
+        <li>Recherches sonores + ambiance générale</li>
+        <li>Bruitages de base (pas, objets, interface)</li>
+        <li>Musique d’ambiance 1 & 2</li>
+        <li>Musiques finales</li>
+        <li>Bruitages restants</li>
+        <li>Mastering audio</li>
+        <li>Mix final pour le trailer</li>
+      </ul>
     </td>
-    <td>
-      <p><h3>🛠️ Outils utilisés</h3>
-- YouTube Audio Library<br>
-- Audacity<br>
-- Reaper<br>
-- freesound.org<br>
-- FL Studio / LMMS</p>
+    <td width="50%">
+      <h3>🛠️ Outils utilisés</h3>
+      <ul>
+        <li>YouTube Audio Library</li>
+        <li>Audacity</li>
+        <li>Reaper</li>
+        <li>freesound.org</li>
+        <li>FL Studio / LMMS</li>
+      </ul>
     </td>
   </tr>
 </table>
-</details>
 
 ---
 
