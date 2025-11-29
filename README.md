@@ -20,9 +20,9 @@
   
 **1 — GAME DESIGNER (GD)**
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="50%">
       <p><h3>⭐ Tâches</h3>
 - Document du concept<br>                                                            
 - Cahier des charges + boucle de gameplay<br>
@@ -34,7 +34,7 @@
 - Tests utilisateurs + corrections<br>
 - Dossier de présentation du projet</p>
     </td>
-    <td>
+    <td width="50%">
       <p><h3>🛠️ Outils utilisés</h3>
 - Notion<br>
 - Google Docs<br>
