@@ -24,27 +24,27 @@
   <tr>
     <td>
       <p>⭐ Tâches
-- Document du concept                                                            
-- Cahier des charges + boucle de gameplay
-- Croquis des niveaux (maquettes UI sur Figma)
-- Level design des 2 premiers niveaux
-- Création des niveaux + scripts d’événements
-- Ajustement du gameplay
-- Tests internes (collecter les retours)
-- Tests utilisateurs + corrections
+- Document du concept<br>                                                            
+- Cahier des charges + boucle de gameplay<br>
+- Croquis des niveaux (maquettes UI sur Figma)<br>
+- Level design des 2 premiers niveaux<br>
+- Création des niveaux + scripts d’événements<br>
+- Ajustement du gameplay<br>
+- Tests internes (collecter les retours)<br>
+- Tests utilisateurs + corrections<br>
 - Dossier de présentation du projet</p>
     </td>
     <td>
       <p>🛠️ Outils utilisés
-- Notion
-- Google Docs
-- Figma
-- Unity Tilemap (2D) / ProBuilder (3D)
-- Google Sheets (équilibrage)
-- Unity Timeline
-- Google Forms
-- Excel
-- Canva
+- Notion<br>
+- Google Docs<br>
+- Figma<br>
+- Unity Tilemap (2D) / ProBuilder (3D)<br>
+- Google Sheets (équilibrage)<br>
+- Unity Timeline<br>
+- Google Forms<br>
+- Excel<br>
+- Canva<br>
 - Google Slides</p>
     </td>
   </tr>
