@@ -52,97 +52,126 @@
 
 **2 — DEV 1 (Gameplay Programmer)**
 
-⭐ Tâches
-- Prototype minimal (déplacements, interactions)
-- Programmation des mécaniques de base
-- Collisions, inventaire, interactions
-- IA basique
-- Feedbacks (retours visuels/sons liés au gameplay)
-- Fonctionnalités secondaires
-- Correction des bugs majeurs
-- Optimisation du gameplay
-- Ajustement de la difficulté
-
-🛠️ Outils utilisés
-- Unity
-- C#
-- Visual Studio Code / Rider
-- Unity Collisions 2D/3D
-- Unity NavMesh (IA si 3D)
-- Unity Profiler
-- Deep Profiling
-- GitHub / GitHub Issues
+<table>
+  <tr>
+    <td>
+      <p>⭐ Tâches<br>
+- Prototype minimal (déplacements, interactions)<br>
+- Programmation des mécaniques de base<br>
+- Collisions, inventaire, interactions<br>
+- IA basique<br>
+- Feedbacks (retours visuels/sons liés au gameplay)<br>
+- Fonctionnalités secondaires<br>
+- Correction des bugs majeurs<br>
+- Optimisation du gameplay<br>
+- Ajustement de la difficulté</p>
+    </td>
+    <td>
+      <p>🛠️ Outils utilisés<br>
+- Unity<br>
+- C#<br>
+- Visual Studio Code / Rider<br>
+- Unity Collisions 2D/3D<br>
+- Unity NavMesh (IA si 3D)<br>
+- Unity Profiler<br>
+- Deep Profiling<br>
+- GitHub / GitHub Issues</p>
+    </td>
+  </tr>
+</table>
 
 **3 — DEV 2 (Tech / UI Programmer)**
 
-⭐ Tâches
-- Mise en place du projet (Unity/Godot)
-- Gestion des inputs + caméras
-- UI de base (menus, HUD)
-- Système de sauvegarde (JSON, PlayerPrefs)
-- Intégration des assets artistiques
-- Polish UI
-- Fonctionnalités secondaires tech
-- Correction de bugs
-- Optimisation technique
-- Build final + compatibilité plateformes
-
-🛠️ Outils utilisés
-- Unity
-- Unity Input System
-- Unity UI Toolkit / Canvas
-- Figma (UI mockups fournis par le GD)
-- JSON / PlayerPrefs
-- GitHub
-- Unity Profiler
-- Unity Build Tools
-- itch.io / Steamworks
+<table>
+  <tr>
+    <td>
+      <p>⭐ Tâches<br>
+- Mise en place du projet (Unity/Godot)<br>
+- Gestion des inputs + caméras<br>
+- UI de base (menus, HUD)<br>
+- Système de sauvegarde (JSON, PlayerPrefs)<br>
+- Intégration des assets artistiques<br>
+- Polish UI<br>
+- Fonctionnalités secondaires tech<br>
+- Correction de bugs<br>
+- Optimisation technique<br>
+- Build final + compatibilité plateformes</p>
+    </td>
+    <td>
+      <p>🛠️ Outils utilisés<br>
+- Unity<br>
+- Unity Input System<br>
+- Unity UI Toolkit / Canvas<br>
+- Figma (UI mockups fournis par le GD)<br>
+- JSON / PlayerPrefs<br>
+- GitHub<br>
+- Unity Profiler<br>
+- Unity Build Tools<br>
+- itch.io / Steamworks</p>
+    </td>
+  </tr>
+</table>
 
 **4 — ARTISTE (2D/3D Artist)**
 
-⭐ Tâches
-- Tests de style graphique
-- Concept arts
-- Premiers assets simples
-- Création des assets principaux
-- Animations simples
-- Nouveaux environnements
-- Effets visuels simples
-- UI définitive (style visuel + icons)
-- Polissage graphique
-- Optimisation textures
-- Petits effets visuels
-- Trailer du jeu
-- Screenshots officiels
+<table>
+  <tr>
+    <td>
+      <p>⭐ Tâches<br>
+- Tests de style graphique<br>
+- Concept arts<br>
+- Premiers assets simples<br>
+- Création des assets principaux<br>
+- Animations simples<br>
+- Nouveaux environnements<br>
+- Effets visuels simples<br>
+- UI définitive (style visuel + icons)<br>
+- Polissage graphique<br>
+- Optimisation textures<br>
+- Petits effets visuels<br>
+- Trailer du jeu<br>
+- Screenshots officiels</p>
+    </td>
+    <td>
+      <p>🛠️ Outils utilisés<br>
+- Aseprite (2D)<br>
+- Photoshop<br>
+- Blender (3D, animations)<br>
+- Unity Particle System<br>
+- TexturePacker<br>
+- Unity VFX<br>
+- Premiere Pro / DaVinci Resolve<br>
+- OBS Studio</p>
+    </td>
+  </tr>
+</table>
 
-🛠️ Outils utilisés
-- Aseprite (2D)
-- Photoshop
-- Blender (3D, animations)
-- Unity Particle System
-- TexturePacker
-- Unity VFX
-- Premiere Pro / DaVinci Resolve
-- OBS Studio
 
 **5 — SOUND DESIGNER**
 
-⭐ Tâches
-- Recherches sonores + ambiance générale
-- Bruitages de base (pas, objets, interface)
-- Musique d’ambiance 1 & 2
-- Musiques finales
-- Bruitages restants
-- Mastering audio
-- Mix final pour le trailer
-
-🛠️ Outils utilisés
-- YouTube Audio Library
-- Audacity
-- Reaper
-- freesound.org
-- FL Studio / LMMS
-</details>
+<table>
+  <tr>
+    <td>
+      <p>⭐ Tâches<br>
+- Recherches sonores + ambiance générale<br>
+- Bruitages de base (pas, objets, interface)<br>
+- Musique d’ambiance 1 & 2<br>
+- Musiques finales<br>
+- Bruitages restants<br>
+- Mastering audio<br>
+- Mix final pour le trailer</p>
+    </td>
+    <td>
+      <p>🛠️ Outils utilisés<br>
+- YouTube Audio Library<br>
+- Audacity<br>
+- Reaper<br>
+- freesound.org<br>
+- FL Studio / LMMS<br>
+</details></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
