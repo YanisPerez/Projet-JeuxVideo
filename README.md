@@ -20,146 +20,116 @@
   
 🎮 1 — GAME DESIGNER (GD)
 ⭐ Tâches
-Document du concept
-Cahier des charges + boucle de gameplay
-Croquis des niveaux (maquettes UI sur Figma)
-Level design des 2 premiers niveaux
-Création des niveaux + scripts d’événements
-Ajustement du gameplay
-Tests internes (collecter les retours)
-Tests utilisateurs + corrections
-Dossier de présentation du projet
+- Document du concept
+- Cahier des charges + boucle de gameplay
+- Croquis des niveaux (maquettes UI sur Figma)
+- Level design des 2 premiers niveaux
+- Création des niveaux + scripts d’événements
+- Ajustement du gameplay
+- Tests internes (collecter les retours)
+- Tests utilisateurs + corrections
+- Dossier de présentation du projet
+
 🛠️ Outils utilisés
-Notion
-Google Docs
-Figma
-Unity Tilemap (2D) / ProBuilder (3D)
-Google Sheets (équilibrage)
-Unity Timeline
-Google Forms
-Excel
-Canva
-Google Slides
+- Notion
+- Google Docs
+- Figma
+- Unity Tilemap (2D) / ProBuilder (3D)
+- Google Sheets (équilibrage)
+- Unity Timeline
+- Google Forms
+- Excel
+- Canva
+- Google Slides
+
 👨‍💻 2 — DEV 1 (Gameplay Programmer)
 ⭐ Tâches
-Prototype minimal (déplacements, interactions)
-Programmation des mécaniques de base
-Collisions, inventaire, interactions
-IA basique
-Feedbacks (retours visuels/sons liés au gameplay)
-Fonctionnalités secondaires
-Correction des bugs majeurs
-Optimisation du gameplay
-Ajustement de la difficulté
+- Prototype minimal (déplacements, interactions)
+- Programmation des mécaniques de base
+- Collisions, inventaire, interactions
+- IA basique
+- Feedbacks (retours visuels/sons liés au gameplay)
+- Fonctionnalités secondaires
+- Correction des bugs majeurs
+- Optimisation du gameplay
+- Ajustement de la difficulté
+
 🛠️ Outils utilisés
-Unity
-C#
-Visual Studio Code / Rider
-Unity Collisions 2D/3D
-Unity NavMesh (IA si 3D)
-Unity Profiler
-Deep Profiling
-GitHub / GitHub Issues
+- Unity
+- C#
+- Visual Studio Code / Rider
+- Unity Collisions 2D/3D
+- Unity NavMesh (IA si 3D)
+- Unity Profiler
+- Deep Profiling
+- GitHub / GitHub Issues
 
 👨‍💻 3 — DEV 2 (Tech / UI Programmer)
 ⭐ Tâches
-Mise en place du projet (Unity/Godot)
-Gestion des inputs + caméras
-UI de base (menus, HUD)
-Système de sauvegarde (JSON, PlayerPrefs)
-Intégration des assets artistiques
-Polish UI
-Fonctionnalités secondaires tech
-Correction de bugs
-Optimisation technique
-Build final + compatibilité plateformes
-🛠️ Outils utilisés
-Unity
-Unity Input System
-Unity UI Toolkit / Canvas
-Figma (UI mockups fournis par le GD)
-JSON / PlayerPrefs
-GitHub
-Unity Profiler
-Unity Build Tools
+- Mise en place du projet (Unity/Godot)
+- Gestion des inputs + caméras
+- UI de base (menus, HUD)
+- Système de sauvegarde (JSON, PlayerPrefs)
+- Intégration des assets artistiques
+- Polish UI
+- Fonctionnalités secondaires tech
+- Correction de bugs
+- Optimisation technique
+- Build final + compatibilité plateformes
 
-itch.io / Steamworks
+🛠️ Outils utilisés
+- Unity
+- Unity Input System
+- Unity UI Toolkit / Canvas
+- Figma (UI mockups fournis par le GD)
+- JSON / PlayerPrefs
+- GitHub
+- Unity Profiler
+- Unity Build Tools
+- itch.io / Steamworks
 
 🎨 4 — ARTISTE (2D/3D Artist)
 ⭐ Tâches
-
-Tests de style graphique
-
-Concept arts
-
-Premiers assets simples
-
-Création des assets principaux
-
-Animations simples
-
-Nouveaux environnements
-
-Effets visuels simples
-
-UI définitive (style visuel + icons)
-
-Polissage graphique
-
-Optimisation textures
-
-Petits effets visuels
-
-Trailer du jeu
-
-Screenshots officiels
+- Tests de style graphique
+- Concept arts
+- Premiers assets simples
+- Création des assets principaux
+- Animations simples
+- Nouveaux environnements
+- Effets visuels simples
+- UI définitive (style visuel + icons)
+- Polissage graphique
+- Optimisation textures
+- Petits effets visuels
+- Trailer du jeu
+- Screenshots officiels
 
 🛠️ Outils utilisés
-
-Aseprite (2D)
-
-Photoshop
-
-Blender (3D, animations)
-
-Unity Particle System
-
-TexturePacker
-
-Unity VFX
-
-Premiere Pro / DaVinci Resolve
-
-OBS Studio
+- Aseprite (2D)
+- Photoshop
+- Blender (3D, animations)
+- Unity Particle System
+- TexturePacker
+- Unity VFX
+- Premiere Pro / DaVinci Resolve
+- OBS Studio
 
 🔊 5 — SOUND DESIGNER
 ⭐ Tâches
-
-Recherches sonores + ambiance générale
-
-Bruitages de base (pas, objets, interface)
-
-Musique d’ambiance 1 & 2
-
-Musiques finales
-
-Bruitages restants
-
-Mastering audio
-
-Mix final pour le trailer
+- Recherches sonores + ambiance générale
+- Bruitages de base (pas, objets, interface)
+- Musique d’ambiance 1 & 2
+- Musiques finales
+- Bruitages restants
+- Mastering audio
+- Mix final pour le trailer
 
 🛠️ Outils utilisés
-
-YouTube Audio Library
-
-Audacity
-
-Reaper
-
-freesound.org
-
-FL Studio / LMMS
+- YouTube Audio Library
+- Audacity
+- Reaper
+- freesound.org
+- FL Studio / LMMS
 </details>
 
 ---
