@@ -20,32 +20,36 @@
   
 **1 — GAME DESIGNER (GD)**
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <p><h3>⭐ Tâches</h3>
-- Document du concept<br>                                                            
-- Cahier des charges + boucle de gameplay<br>
-- Croquis des niveaux (maquettes UI sur Figma)<br>
-- Level design des 2 premiers niveaux<br>
-- Création des niveaux + scripts d’événements<br>
-- Ajustement du gameplay<br>
-- Tests internes (collecter les retours)<br>
-- Tests utilisateurs + corrections<br>
-- Dossier de présentation du projet</p>
+    <td width="50%">
+      <h3>⭐ Tâches</h3>
+      <ul>
+        <li>Document du concept</li>
+        <li>Cahier des charges + boucle de gameplay</li>
+        <li>Croquis des niveaux (maquettes UI sur Figma)</li>
+        <li>Level design des 2 premiers niveaux</li>
+        <li>Création des niveaux + scripts d’événements</li>
+        <li>Ajustement du gameplay</li>
+        <li>Tests internes (collecter les retours)</li>
+        <li>Tests utilisateurs + corrections</li>
+        <li>Dossier de présentation du projet</li>
+      </ul>
     </td>
-    <td>
-      <p><h3>🛠️ Outils utilisés</h3>
-- Notion<br>
-- Google Docs<br>
-- Figma<br>
-- Unity Tilemap (2D) / ProBuilder (3D)<br>
-- Google Sheets (équilibrage)<br>
-- Unity Timeline<br>
-- Google Forms<br>
-- Excel<br>
-- Canva<br>
-- Google Slides</p>
+    <td width="50%">
+      <h3>🛠️ Outils utilisés</h3>
+      <ul>
+        <li>Notion</li>
+        <li>Google Docs</li>
+        <li>Figma</li>
+        <li>Unity Tilemap (2D) / ProBuilder (3D)</li>
+        <li>Google Sheets (équilibrage)</li>
+        <li>Unity Timeline</li>
+        <li>Google Forms</li>
+        <li>Excel</li>
+        <li>Canva</li>
+        <li>Google Slides</li>
+      </ul>
     </td>
   </tr>
 </table>
