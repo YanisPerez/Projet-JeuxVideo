@@ -52,9 +52,9 @@
 
 **2 — DEV 1 (Gameplay Programmer)**
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="50%">
       <p><h3>⭐ Tâches</h3>
 - Prototype minimal (déplacements, interactions)<br>
 - Programmation des mécaniques de base<br>
@@ -66,7 +66,7 @@
 - Optimisation du gameplay<br>
 - Ajustement de la difficulté</p>
     </td>
-    <td>
+    <td width="50%">
       <p><h3>🛠️ Outils utilisés</h3>
 - Unity<br>
 - C#<br>
@@ -82,9 +82,9 @@
 
 **3 — DEV 2 (Tech / UI Programmer)**
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="50%">
       <p><h3>⭐ Tâches</h3><br>
 - Mise en place du projet (Unity/Godot)
 - Gestion des inputs + caméras<br>
@@ -97,7 +97,7 @@
 - Optimisation technique<br>
 - Build final + compatibilité plateformes</p>
     </td>
-    <td>
+    <td width="50%">
       <p><h3>🛠️ Outils utilisés</h3>
 - Unity<br>
 - Unity Input System<br>
@@ -114,9 +114,9 @@
 
 **4 — ARTISTE (2D/3D Artist)**
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="50%">
       <p><h3>⭐ Tâches</h3>
 - Tests de style graphique<br>
 - Concept arts<br>
@@ -132,7 +132,7 @@
 - Trailer du jeu<br>
 - Screenshots officiels</p>
     </td>
-    <td>
+    <td width="50%">
       <p><h3>🛠️ Outils utilisés</h3>
 - Aseprite (2D)<br>
 - Photoshop<br>
@@ -149,9 +149,9 @@
 
 **5 — SOUND DESIGNER**
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="50%">
       <p><h3>⭐ Tâches</h3>
 - Recherches sonores + ambiance générale<br>
 - Bruitages de base (pas, objets, interface)<br>
@@ -161,7 +161,7 @@
 - Mastering audio<br>
 - Mix final pour le trailer</p>
     </td>
-    <td>
+    <td width="50%">
       <p><h3>🛠️ Outils utilisés</h3>
 - YouTube Audio Library<br>
 - Audacity<br>
