@@ -19,6 +19,7 @@
   <summary><h2>📅 2. PLANNING PAR RÔLE </h2></summary>
   
 🎮 1 — GAME DESIGNER (GD)
+
 ⭐ Tâches
 - Document du concept
 - Cahier des charges + boucle de gameplay
@@ -43,6 +44,7 @@
 - Google Slides
 
 👨‍💻 2 — DEV 1 (Gameplay Programmer)
+
 ⭐ Tâches
 - Prototype minimal (déplacements, interactions)
 - Programmation des mécaniques de base
@@ -65,6 +67,7 @@
 - GitHub / GitHub Issues
 
 👨‍💻 3 — DEV 2 (Tech / UI Programmer)
+
 ⭐ Tâches
 - Mise en place du projet (Unity/Godot)
 - Gestion des inputs + caméras
@@ -89,6 +92,7 @@
 - itch.io / Steamworks
 
 🎨 4 — ARTISTE (2D/3D Artist)
+
 ⭐ Tâches
 - Tests de style graphique
 - Concept arts
@@ -115,6 +119,7 @@
 - OBS Studio
 
 🔊 5 — SOUND DESIGNER
+
 ⭐ Tâches
 - Recherches sonores + ambiance générale
 - Bruitages de base (pas, objets, interface)
