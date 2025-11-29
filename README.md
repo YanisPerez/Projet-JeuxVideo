@@ -292,31 +292,6 @@ Exemples : Paper Mario, Tearaway
 Peu de polygones, look minimaliste
 Exemples : Kingdom, Poly Bridge
 
-- High Poly / Réaliste
-
-Beaucoup de détails, textures haute qualité
-Exemples : The Last of Us, Red Dead Redemption 2
-
-- Cel Shading
-
-Effet bande dessinée / anime
-Exemples : Zelda Wind Waker, Borderlands
-
-- Stylized (Stylisé)
-
-Pas réaliste mais détaillé, couleurs fortes
-Exemples : Fortnite, Overwatch
-
-- Photorealiste
-
-Recherche de réalisme quasi photographique
-Exemples : Gran Turismo, Battlefield
-
-- Toon shader
-
-Très cartoon, contours marqués
-Exemples : Naruto Ninja Storm
-
 **3. Styles hybrides ou expérimentaux**
 - Mixed Media
 
