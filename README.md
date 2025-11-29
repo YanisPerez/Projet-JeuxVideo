@@ -258,7 +258,7 @@ Transitions (Photoshop, Unity animations)
 ---
 
 <details>
-  <summary><h2>📘 5. EXEMPLE DE DA</h2></summary>
+  <summary><h2>🕹️ 5. EXEMPLE DE DA</h2></summary>
     
 **1. Styles 2D**
 - Pixel Art
