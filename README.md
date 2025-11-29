@@ -260,8 +260,6 @@ Transitions (Photoshop, Unity animations)
 <details>
   <summary><h2>🕹️ 5. EXEMPLE DE DA</h2></summary>
 
-    # 🎨 Styles graphiques de jeux vidéo (version compacte complète)
-
 | Style | Image | Description |
 |-------|--------|-------------|
 | **Pixel Art** | <img src="https://images.gamebanana.com/img/ss/mods/6427b7f0c3f2d.jpg" width="180"> | Pixelisé, rétro, inspiré 8–16 bits (ex : Celeste, Stardew Valley) |
