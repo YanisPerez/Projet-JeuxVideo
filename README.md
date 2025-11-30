@@ -269,7 +269,7 @@ Transitions (Photoshop, Unity animations)
 | **Hand-drawn / Dessiné à la main** | <img src="https://assetsio.gnwcdn.com/ilustracja_2_woda.jpg.jpg?width=690&quality=85&format=jpg&dpr=1.5&auto=webp" width="180"> | Style illustratif ou cartoon dessiné à la main (ex : Cuphead, Ori) |
 | **Low Poly (3D)** | <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625450/ss_93ca2a0fe35660aa6ff3cf5c512a10c32ab621e2.1920x1080.jpg?t=1625163481" width="180"> | Peu de polygones, style géométrique minimaliste (ex : Poly Bridge, Kingdom) |
 | **Minimaliste / Abstract** | <img src="https://i.jeuxactus.com/datas/jeux/j/o/journey/xl/journey-4e2657dc83581.jpg" width="180"> | Formes simples et stylisées, très épuré (ex : Thomas Was Alone, Journey) |
-| **Retro 3D (PS1/PS2)** | <img src="[https://i.ytimg.com/vi/ONueU-P8qPg/hq720.jpg](https://www.pcgamesn.com/wp-content/sites/pcgamesn/legacy/Back_in_1995.jpg)" width="180"> | Effet low-res, textures floues, look années 90 (ex : Paratopic, Back in 1995) |
+| **Retro 3D (PS1/PS2)** | <img src="[https://www.pcgamesn.com/wp-content/sites/pcgamesn/legacy/Back_in_1995.jpg](https://www.pcgamesn.com/wp-content/sites/pcgamesn/legacy/Back_in_1995.jpg)" width="180"> | Effet low-res, textures floues, look années 90 (ex : Paratopic, Back in 1995) |
 | **Voxel Art** | <img src="https://game-guide.fr/wp-content/uploads/2017/03/TrovePS4_01.jpg" width="180"> | Graphismes en cubes volumétriques (ex : Minecraft, Trove) |
 </details>
 
