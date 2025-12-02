@@ -278,18 +278,18 @@ Transitions (Photoshop, Unity animations)
   <summary><h2>📘 6. GDD COMPLET (Game Design Document)</h2></summary>
 
 **1 — Informations générales**
-- Titre du jeu :
-- Concept en une phrase :
-- Genre : (gestion, puzzle, exploration…)
-- Plateforme : PC / Mobile
-- Durée totale de jeu :
-- Public visé :
-- Pourquoi le joueur joue ?
-- Qu’est-ce qu’il apprend ?
-- Quelle émotion tu veux transmettre ?
+- Titre du jeu : Planet Smash
+- Concept en une phrase : Le but du jeu est de dégrader au maximum la planette Terre en un temps donné, le score s'affichera une fois le temps écoulé.
+- Genre : exploration, running
+- Plateforme : Mobile
+- Durée totale de jeu : 5 min par niveaux (3 niveaux)
+- Public visé : Tout le monde
+- Pourquoi le joueur joue ? Pour que l'Homme prenne conscience que ses actes ont des conséquences sur l'environnement dans lequel il vit . 
+- Qu’est-ce qu’il apprend ? Il apprend a avoir des résponsabilités vis a vis de l'environnement.
+- Quelle émotion tu veux transmettre ? La culpabilité
 
 **2 — Pitch détaillé**
-- Résumé du jeu (5 à 10 lignes)
+- Résumé du jeu (5 à 10 lignes) On controle un personnage 
 - Thématique écologique centrale
 - Objectif final du joueur
 
