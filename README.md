@@ -7,8 +7,8 @@
 
 **Répartition des rôles**
 - Game Designer (GD) :[Yanis Perez Assim Sanchez Penas] 
-- Dev 1 (Gameplay) []
-- Dev 2 (Tech/UI) []
+- Dev 1 (Gameplay) [Elouan Maisonette ]
+- Dev 2 (Tech/UI) [Tasnime El Ouestlati]
 - Artiste [Thinhinane Goucem]
 - Sound Designer [Yanis Perez Assim Sanchez Penas]
 </details>
@@ -289,41 +289,37 @@ Transitions (Photoshop, Unity animations)
 - Quelle émotion tu veux transmettre ? La culpabilité
 
 **2 — Pitch détaillé**
-- Résumé du jeu (5 à 10 lignes) On controle un personnage 
-- Thématique écologique centrale
-- Objectif final du joueur
+- Résumé du jeu (5 à 10 lignes) On controle un personnage dans un niveau qui a pour objectifs : détruire les éléments de l'environnement dans un temps donné et ne pas se faire attrapper par les écolos. Le jeu est constitué de trois niveaux différents . Le joueur doit valider le premier niveau pour passer au suivant. On valide un niveau en atteingnant au minimum 75% de dégats causés a l'environnement.
+- Thématique écologique centrale:
+- Objectif final du joueur: Réussir les trois niveaux proposés a 100%.
 
 **3 — Boucle de gameplay**
 - Le joueur explore un environnement
-- Récupère des ressources / déchets
-- Purifie / restaure la nature
 - Débloque de nouvelles zones
 - Progresse
+- Détruire les éléments 
 
 **4 — Gameplay détaillé**
-- Mécaniques principales :
-- Déplacement
-- Interactions
-- Gestion des ressources
-- Résolution de puzzles
-- Améliorations
-- Mécaniques secondaires :
-- Objets à collecter
-- Système écologique (croissance plantes, pollution…)
-
+- Mécaniques principales : Frapper pour mettre des degats a l'environnement 
+- Déplacement : Course , Glissade 
+- Mécaniques secondaires : Boost de vitesse placés un peu partout sur la map
+- Objets à collecter : Frapper des tonneaux pour récupérer du loot qui permet de faire plus de dégats a l'environnements.
+- Système écologique : La map se détériore en fonction des actions du joueur
+  
 **5 — Progression du joueur**
-- Niveau 1 :
-- Niveau 2 :
-- Niveau 3 :
+- Niveau 1 : Pour valider le niveau, atteindre au minimum 75% de dégats causés a l'environnement.
+- Niveau 2 : Pour valider le niveau, atteindre au minimum 85% de dégats causés a l'environnement.
+- Niveau 3 : Pour valider le niveau, atteindre au minimum 100% de dégats causés a l'environnement.
 
 **6 — Personnages**
-- Description
-- Objectifs / rôles
-- Animations nécessaires
+- Description (Personnage Principal) : Possibilité de choisir entre un joueur ou une joueuse. Le joueur est vétu d'un bandana noir et habillé tout en noir
+- Description (PNJ): Gilet Jaunes 
+- Objectifs / rôles : Personnage principal: Détruire l'environnement, PNJ: Poursuivre pour arreter le joueur
+- Animations nécessaires: animation de : sprint; glissade; frapper; ramassage loot; saut ; célébration 
 
 **7 — Environnements**
-- Zones du jeu
-- Thème visuel
+- Zones du jeu: 1er niveau : parc ; 2ème niveau : ville ; 3ème niveau : océan
+- Thème visuel : 
 - Interactions possibles
 - Cycle jour/nuit
 
