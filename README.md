@@ -319,13 +319,12 @@ Transitions (Photoshop, Unity animations)
 
 **7 — Environnements**
 - Zones du jeu: 1er niveau : parc ; 2ème niveau : ville ; 3ème niveau : océan
-- Thème visuel : 
-- Interactions possibles
-- Cycle jour/nuit
+- Thème visuel : LowPoly, jeu très colorés, Aspect trash mais accessible aux enfants.
+- Interactions possibles : Frapper des tonneaux pour récupérer du loot qui permet de faire plus de dégats a l'environnements. Malus Possible 
 
 **8 — Interface (UI/UX)**
-- HUD
-- Menus
+- HUD : barre pourcentage et timer , inventaire
+- Menus : Accueil , Partie, Endgame
 - Indicateurs visuels
 - Feedbacks (sons, couleurs, vibrations)
 
