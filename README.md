@@ -6,11 +6,11 @@
   <summary><h2>👨‍💻 1. Répartition des rôles</h2></summary>
 
 **Répartition des rôles**
-- Game Designer (GD)
-- Dev 1 (Gameplay)
-- Dev 2 (Tech/UI)
-- Artiste
-- Sound Designer
+- Game Designer (GD) :[Yanis Perez Assim Sanchez Penas] 
+- Dev 1 (Gameplay) []
+- Dev 2 (Tech/UI) []
+- Artiste [Thinhinane Goucem]
+- Sound Designer [Yanis Perez Assim Sanchez Penas]
 </details>
 
 ---
