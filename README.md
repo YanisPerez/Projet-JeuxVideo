@@ -262,7 +262,7 @@ Transitions (Photoshop, Unity animations)
 
 | Style | Image | Description |
 |-------|--------|-------------|
-| **Pixel Art** | <img src="https://images.gamebanana.com/img/ss/mods/6427b7f0c3f2d.jpg" width="180"> | Pixelisé, rétro, inspiré 8–16 bits (Celeste) |
+| <span style="background:#ffeb3b; padding:4px; border-radius:4px;">Pixel Art</span> | <img src="https://images.gamebanana.com/img/ss/mods/6427b7f0c3f2d.jpg" width="180"> | Pixelisé, rétro, inspiré 8–16 bits (Celeste) |
 | **Vector Art** | <img src="https://i.redd.it/steam-page-updated-v0-cu134okpskkf1.jpg?width=2560&format=pjpg&auto=webp&s=c8f235e9a9d3f2ba601ff28951e5ea1ab480f346" width="180"> | Formes géométriques nettes, lignes et courbes vectorielles (Hollow Knight) |
 | **Flat Design** | <img src="https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3400436/a02_Chasm.0.png?q=50&fit=crop&w=825&dpr=1.5" width="180"> | Minimaliste, couleurs uniformes et surfaces plates (Alto’s Adventure) |
 | **Paper-cut / Paper Craft** | <img src="https://i.redd.it/any-recommendations-for-games-similar-to-paper-mario-or-v0-fuwcse65c5if1.jpg?width=1920&format=pjpg&auto=webp&s=2ff6b9aab5da926d12829d724ce491a7d7ef1c4c" width="180"> | Style papier découpé ou collage (Paper Mario) |
