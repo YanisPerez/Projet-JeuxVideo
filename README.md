@@ -277,70 +277,102 @@ Transitions (Photoshop, Unity animations)
 <details>
   <summary><h2>📘 6. GDD COMPLET (Game Design Document)</h2></summary>
 
-**1 — Informations générales**
-- Titre du jeu : Planet Smash
-- Concept en une phrase : Le but du jeu est de dégrader au maximum la planette Terre en un temps donné, le score s'affichera une fois le temps écoulé.
-- Genre : exploration, running
-- Plateforme : Mobile
-- Durée totale de jeu : 5 min par niveaux (3 niveaux)
-- Public visé : Tout le monde
-- Pourquoi le joueur joue ? Pour que l'Homme prenne conscience que ses actes ont des conséquences sur l'environnement dans lequel il vit . 
-- Qu’est-ce qu’il apprend ? Il apprend a avoir des résponsabilités vis a vis de l'environnement.
-- Quelle émotion tu veux transmettre ? La culpabilité
+**GAME OVERVIEW**
 
-**2 — Pitch détaillé**
-- Résumé du jeu (5 à 10 lignes) On controle un personnage dans un niveau qui a pour objectifs : détruire les éléments de l'environnement dans un temps donné et ne pas se faire attrapper par les écolos. Le jeu est constitué de trois niveaux différents . Le joueur doit valider le premier niveau pour passer au suivant. On valide un niveau en atteingnant au minimum 75% de dégats causés a l'environnement.
-- Thématique écologique centrale:
-- Objectif final du joueur: Réussir les trois niveaux proposés a 100%.
+Informations générales :
+Titre du jeu : Planet Smash
+Concept en une phrase : Le but du jeu est de dégrader au maximum une planète extraterrestre en un temps donné, le score s'affichera une fois le temps écoulé.
+Genre : exploration, running
+Plateforme : Mobile
+Durée totale de jeu : 5 min par niveaux (3 niveaux)
+Public visé : Tout public
+Intention : Sensibiliser à l’impact des actions humaines sur l’environnement
+Qu’est-ce qu’il apprend ? Il apprend à avoir des responsabilités vis à vis de l'environnement.
+Pitch détaillé : 
+Résumé du jeu : Le joueur contrôle un voyageur spatial dont l’objectif est de détruire un maximum d’éléments environnementaux sur des planète étrangères habité par des civilisations évoluées avant la fin du temps imparti, tout en évitant de se faire attraper par les habitants. Le jeu comporte trois niveaux (planète avec environnement terrestres (végétation), planète avec un environnement urbain (ville), planète avec environnement aquatique (ville aquatique)), chacun plus difficile que le précédent. Le joueur doit atteindre un pourcentage minimum de dégâts pour valider chaque niveau.
+Thématique écologique centrale : Le thème écologique central repose sur la confrontation entre destruction et prise de conscience
+Objectif final du joueur : Réussir les trois niveaux proposés à 100%.
 
-**3 — Boucle de gameplay**
-- Le joueur explore un environnement
-- Débloque de nouvelles zones
-- Progresse
-- Détruire les éléments 
+**GAMEPLAY**
 
-**4 — Gameplay détaillé**
-- Mécaniques principales : Frapper pour mettre des degats a l'environnement 
-- Déplacement : Course , Glissade 
-- Mécaniques secondaires : Boost de vitesse placés un peu partout sur la map
-- Objets à collecter : Frapper des tonneaux pour récupérer du loot qui permet de faire plus de dégats a l'environnements.
-- Système écologique : La map se détériore en fonction des actions du joueur
-  
-**5 — Progression du joueur**
-- Niveau 1 : Pour valider le niveau, atteindre au minimum 75% de dégats causés a l'environnement.
-- Niveau 2 : Pour valider le niveau, atteindre au minimum 85% de dégats causés a l'environnement.
-- Niveau 3 : Pour valider le niveau, atteindre au minimum 100% de dégats causés a l'environnement.
+Boucle de gameplay :
+Exploration
+Repérage des structures destructibles
+Frappe
+Feedback visuel/sonore
+Destruction de la structure → augmentation pourcentage du niveau
+Aggro des PNJ
+Gain de loot → amélioration des dégâts
 
-**6 — Personnages**
-- Description (Personnage Principal) : Possibilité de choisir entre un joueur ou une joueuse. Le joueur est vétu d'un bandana noir et habillé tout en noir
-- Description (PNJ): Gilet Jaunes 
-- Objectifs / rôles : Personnage principal: Détruire l'environnement, PNJ: Poursuivre pour arreter le joueur
-- Animations nécessaires: animation de : sprint; glissade; frapper; ramassage loot; saut ; célébration 
 
-**7 — Environnements**
-- Zones du jeu: 1er niveau : parc ; 2ème niveau : ville ; 3ème niveau : océan
-- Thème visuel : LowPoly, jeu très colorés, Aspect trash mais accessible aux enfants.
-- Interactions possibles : Frapper des tonneaux pour récupérer du loot qui permet de faire plus de dégats a l'environnements. Malus Possible 
+Système de score / calcul des dégâts :
+Les petites structures (commune) augmente le % de 1, les structures moyenne (rare) augmente le % de 10, les structures immense (très rare) augmente le % de 20. En fonction de la structure la résistance est différente.
+Il existe des multiplicateurs de pourcentage dans le niveau
+Les armes récolter améliore les dégâts infliger aux structures
+Gameplay détaillé :
+Mécaniques principales : Frapper pour mettre des dégâts à l'environnement 
+Déplacement : Course, Glissade 
+Mécaniques secondaires : Boost de vitesse placés un peu partout sur la map
+Objets à collecter : Frapper des tonneaux pour récupérer du loot qui permet de faire plus de dégâts à l'environnements.
+Système écologique : Le niveau se détériore en fonction des actions du joueur
+PNJ + IA :
+Leur champ de vision est d’environ 100° devant eux 
+Leur distance moyenne de détection est de 25-35 mètres 
+Leur vitesse de déplacement est de 5% de moins que le joueur en sprint  
+Plus la zone est détruite plus ils sont nombreux 
+Ils infligent des dégâts au contact du joueur 
+Progression du joueur :
+Niveau 1 : Pour valider le niveau, atteindre au minimum 75% de dégâts causés à l'environnement.
+Niveau 2 : Pour valider le niveau, atteindre au minimum 85% de dégâts causés à l'environnement.
+Niveau 3 : Pour valider le niveau, atteindre au minimum 100% de dégâts causés à l'environnement.
+Personnages :
+Description (Personnage Principal) : Possibilité de choisir entre un personnage masculin ou féminin, vêtu d’une combinaison spéciale.  
+Description (PNJ) : Extraterrestre qui varie en fonction du niveau
+Objectifs / rôles : Personnage principal : Détruire l'environnement, PNJ : Poursuivre pour arrêter le joueur
+Animations nécessaires : animation de : sprint ; glissade ; frapper ; ramassage loot ; saut ; célébration 
+Environnement :
+Zones du jeu : 
+-	1er niveau :  planète avec environnement terrestres (végétation)
+-	2eme niveau planète avec un environnement urbain (ville) 
+-	3eme niveau planète avec environnement aquatique (ville aquatique)
+Thème visuel : 
 
-**8 — Interface (UI/UX)**
-- HUD : score en pourcentage, timer , inventaire, santé de son personnage
-- Menus : Accueil , Partie, Endgame
-- Feedbacks (sons, couleurs,)
+-	LowPoly
+-	Jeux très colorés
+-	Aspect « trash », « satirique » mais accessible aux enfants.
+Interactions possibles : Frapper des tonneaux pour récupérer des armes qui permettent de faire plus de dégâts à l'environnements.
+Eléments/structures destructible : 
+-	Niveau Végétation : arbres, rochers, huttes…
 
-**9 — Éléments artistiques**
-- Style graphique : LowPoly
-- Palette de couleurs : couleur vive et varié
-- Références artistiques : Muck
+-	Niveau Urbain : lampadaires, vitrines, voitures, bancs…
+-	Niveau Aquatique : coraux, dômes, tubes, structures bioluminescentes…
 
-**10 — Éléments sonores**
-- Bruitages : voix pour féliciter,critiquer ou encouragé le joueur 
-- Musiques : 
+**GAMEFLOW**
 
-**11 — Technologies utilisées**
-- Moteur (Unity)
-- Logiciels (Blender, Aseprite, Audacity, vscode)
+Interface (UI/UX) :
+HUD : 
+-	Score en pourcentage 
+-	Timer
+-	Inventaire
+-	Santé de son personnage
+Menus : Accueil, Partie, Endgame
+Feedbacks :
+-	Sons lors d’interaction (coup sur les structures, dégâts reçus, ramassage du loot, bonus…)
+-	Flash rouge autour de l’écran lors d’un coup reçu
+Éléments artistiques :
+Style graphique : LowPoly
+Palette de couleurs : couleur vive et varié
+Références artistiques : Muck
+C.	Éléments sonores :
+Bruitages : voix pour féliciter, critiquer ou encouragé le joueur 
+Musiques d’ambiance par niveau (l’intensité de la musique augmente au fur et mesure que le temps passe)  
 
-**12 — Risques + solutions**
-- Retard : réduire les niveaux
-- Bugs : focus sur gameplay simple
+**DOCUMENTATION TECHNIQUE**
+
+Technologies utilisées : Moteur (Unity)
+Logiciels (Blender, Aseprite, Audacity, vs code)
+Risques + solutions :
+Retard : réduire les niveaux
+Bugs : focus sur gameplay simple
+
 </details>
