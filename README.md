@@ -323,30 +323,24 @@ Transitions (Photoshop, Unity animations)
 - Interactions possibles : Frapper des tonneaux pour récupérer du loot qui permet de faire plus de dégats a l'environnements. Malus Possible 
 
 **8 — Interface (UI/UX)**
-- HUD : barre pourcentage et timer , inventaire
+- HUD : score en pourcentage, timer , inventaire, santé de son personnage
 - Menus : Accueil , Partie, Endgame
-- Indicateurs visuels
-- Feedbacks (sons, couleurs, vibrations)
+- Feedbacks (sons, couleurs,)
 
 **9 — Éléments artistiques**
-- Style graphique
-- Palette de couleurs
-- Références artistiques
-- Modèles 2D / 3D nécessaires
+- Style graphique : LowPoly
+- Palette de couleurs : couleur vive et varié
+- Références artistiques : Muck
 
 **10 — Éléments sonores**
-- Ambiances
-- Bruitages
-- Musiques
-- Feedback audio
+- Bruitages : voix pour féliciter,critiquer ou encouragé le joueur 
+- Musiques : 
 
 **11 — Technologies utilisées**
 - Moteur (Unity)
-- Gestion de version (GitHub / GitLab)
-- Logiciels (Blender, Aseprite, Audacity…)
+- Logiciels (Blender, Aseprite, Audacity, vscode)
 
 **12 — Risques + solutions**
 - Retard : réduire les niveaux
-- Trop d’assets : passer au style lowpoly
 - Bugs : focus sur gameplay simple
 </details>
