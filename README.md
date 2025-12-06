@@ -279,4 +279,6 @@ Transitions (Photoshop, Unity animations)
 
 [GDD.pdf](https://github.com/user-attachments/files/24003200/GDD.pdf)
 
+[Gantt Excel.xlsx](https://github.com/user-attachments/files/24003313/Gantt.Excel.xlsx)
+
 </details>
