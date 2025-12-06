@@ -95,7 +95,7 @@
 |  | Artiste | Trailer et screenshots officiels | Premiere Pro, DaVinci Resolve, OBS Studio | Trailer + screenshots |
 |  | GD | Dossier de présentation projet | Canva, Google Slides, Notion | Documentation finale |
 |  | Sound | Mix final trailer | Reaper | Audio trailer final |
-
+</details>
 
 ---
 
