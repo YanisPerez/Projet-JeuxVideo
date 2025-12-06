@@ -29,7 +29,7 @@
 | Tâche / Domaine                           | Rôles impliqués                    | Type de collaboration |
 |-------------------------------------------|------------------------------------|------------------------|
 | Document du concept ![validé](https://img.shields.io/badge/-Validé-brightgreen)                      | GD, Artiste                        | Le GD définit, l’artiste illustre |
-| Cahier des charges + gameplay loop        | GD, Dev 1, Dev 2                   | Le GD décrit, les Devs valident faisabilité |
+| Cahier des charges + gameplay loop ![validé](https://img.shields.io/badge/-Validé-brightgreen)       | GD, Dev 1, Dev 2                   | Le GD décrit, les Devs valident faisabilité |
 | Croquis & style graphique                 | GD, Artiste                        | Alignement direction artistique |
 | Prototype minimal                         | GD, Dev 1                          | GD définit, Dev 1 implémente |
 | Mise en place du projet Unity             | Dev 1, Dev 2                       | Partage de structure & conventions |
