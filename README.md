@@ -66,166 +66,36 @@
 <details>
   <summary><h2>📆 3. PLANNING MOIS PAR MOIS</h2></summary>
   
-### Mois 1 — Pré-production (Bases + Prototype)
+| Mois | Rôle | Objectifs / Tâches | Outils principaux | Livrable |
+|------|------|-------------------|-----------------|----------|
+| 1 — Pré-production | GD | Finalisation GDD, définition mécaniques, croquis niveaux | Notion, Google Docs, Figma | Prototype 2–3 min |
+|  | Dev 1 | Mise en place projet Unity, déplacement, sprint, glissade, frappe | Unity, VS Code | Prototype jouable minimal |
+|  | Dev 2 | Gestion inputs et caméras, score simple | Unity Input System | Prototype fonctionnel |
+|  | Artiste | Tests style LowPoly, premiers assets destructibles | Aseprite, Blender | Assets 1er niveau simples |
+|  | Sound | Recherche ambiance sonore, premiers bruitages | Audacity, Reaper | Bruitages initiaux |
+| 2 — Développement cœur du jeu | Dev 1 | Programmation frappe, loot, boost, collisions | Unity, C# | N1 jouable avec destruction |
+|  | Dev 2 | UI basique HUD + sauvegarde | Unity UI Toolkit, Figma | HUD et sauvegarde opérationnels |
+|  | GD | Level design N1, placement structures et PNJ | Unity Tilemap, Notion | N1 finalisé |
+|  | Artiste | Assets principaux N1, animations personnages | Blender, Aseprite | N1 visuellement complet |
+|  | Sound | Bruitages et ambiance N1 | Audacity, Reaper | Audio niveau 1 |
+| 3 — Contenu jouable | Dev 1 | IA PNJ, feedbacks dégâts, interaction loot | Unity NavMesh, C# | 3 niveaux jouables |
+|  | Dev 2 | Intégration assets et animations, feedback UI | Unity Canvas, GitHub | UI complète et responsive |
+|  | GD | Level design N2/N3, scripts événements | Unity Timeline, Notion | N2/N3 jouables |
+|  | Artiste | Assets N2/N3, effets visuels, animations PNJ | Blender, Aseprite | N2/N3 visuellement complet |
+|  | Sound | Musiques et bruitages N2/N3 | FL Studio/LMMS, Reaper | Audio niveaux 2 & 3 |
+| 4 — Finalisation contenu | Dev | Fonctionnalités secondaires, correction bugs majeurs | Unity Profiler, GitHub Issues | Gameplay complet polissé |
+|  | Artiste | UI définitive, polissage animations & effets | Figma, Photoshop, Unity UI | Assets finalisés |
+|  | GD | Ajustement gameplay, tests internes | Google Forms, Excel | Feedback intégré |
+|  | Sound | Musiques et bruitages finalisés | Reaper, Audacity | Audio finalisé |
+| 5 — Optimisation & tests | Dev | Optimisation code et performance, ajustement IA | Unity Profiler, GitHub Projects | Version quasi-finale optimisée |
+|  | Artiste | Optimisation textures et effets | TexturePacker, Blender | Assets optimisés |
+|  | GD | Organisation playtests, corrections | Playtests, Google Forms, Notion | Version équilibrée |
+|  | Sound | Mastering audio final | Reaper | Audio masterisé |
+| 6 — Finitions & communication | Dev | Build final mobile, compatibilité plateformes | Unity Build Tools, itch.io / Play Store | Build final |
+|  | Artiste | Trailer et screenshots officiels | Premiere Pro, DaVinci Resolve, OBS Studio | Trailer + screenshots |
+|  | GD | Dossier de présentation projet | Canva, Google Slides, Notion | Documentation finale |
+|  | Sound | Mix final trailer | Reaper | Audio trailer final |
 
-**- GD**
-- Document du concept
-- Cahier des charges + boucle de gameplay
-- Croquis des niveaux
-Outils : Notion, Google Docs, Figma (croquis UI)
-
-**- Dev 1**
-- Prototype minimal (déplacements, interactions)
-Outils :
-Unity, Visual Studio Code
-
-**- Dev 2**
-- Mise en place du projet (Unity)
-- Gestion des inputs + caméras
-Outils :
-Unity Input System
-
-**- Artiste**
-- Tests de style graphique
-- Concept arts + premiers assets simples
-Outils :
-Aseprite (2D), Photoshop, Blender (3D)
-
-**- Sound**
-- Recherches sonores + ambiance générale
-Outils :
-YouTube audio library, Audacity, Reaper
-Livrable : mini prototype jouable 2–3 minutes.
-
-### Mois 2 — Développement du cœur du jeu
-**- Dev 1**
-- Programmation mécaniques de base
-- Collisions, inventaire simple, interactions
-Outils :
-Unity (collisions 2D/3D), C#, Rider/VSCode
-
-**- Dev 2**
-- UI de base (menus, HUD)
-- Système de sauvegarde
-Outils :
-Figma (UI mockups), Unity UI Toolkit, PlayerPrefs
-
-**- Artiste**
-- Assets principaux
-- Animations simples
-Outils :
-Blender (animations), Aseprite (sprites), Photoshop
-
-**- GD**
-- Level design des 2 premiers niveaux
-Outils :
-Unity Tilemap (2D), ProBuilder (3D)
-
-**- Sound**
-- Bruitages de base (pas, objets, interface)
-Ouils :
-Audacity, freesound.org, Reaper
-
-### Mois 3 — Contenu jouable
-**- Dev 1**
-- IA basique
-- Feedbacks
-Outils :
-Unity NavMesh (si 3D), scripts C#
-
-**- Dev 2**
-- Intégration assets + polish UI
-Outils :
-Unity Canvas/UI Toolkit, GitHub
-
-**- GD**
-- Création niveaux + scripts d'événements
-Outils :
-Unity Timeline, prefabs, Notion (doc niveaux)
-
-**- Artiste**
-- Nouveaux environnements
-- Effets visuels simples
-Outils :
-Blender, Aseprite, Unity Particle System
-
-**- Sound**
-- Musique d’ambiance 1 & 2
-Outils :
-FL Studio / LMMS, Reaper
-Livrable : version jouable de 30 à 60 min.
-
-### Mois 4 — Finalisation du contenu
-**- Dev**
-- Fonctionnalités secondaires
-- Bugs majeurs
-Outils :
-Unity Profiler, GitHub Issues
-
-**- Artiste**
-- UI définitive
-- Polissage
-Outils :
-Figma, Photoshop, Unity UI
-
-**- GD**
-- Ajustement du gameplay
-- Tests internes
-Outils :
-Google Forms (retours internes), Excel (équilibrage)
-
-**- Sound**
-- Musiques finales
-- Bruitages restants
-Outils :
-Reaper, Audacity
-
-### Mois 5 — Optimisation + Test + Polish
-**- Dev**
-- Optimisation
-- Correction de bugs
-- Ajustement difficulté
-Outils :
-Unity Profiler, Deep Profiling, GitHub Projects
-
-**- Artiste**
-- Optimisation textures
-- Petits effets visuels
-Outils :
-TexturePacker, Blender, Unity VFX
-
-**- Sound**
-- Mastering audio
-Outils : Reaper
-
-**- GD**
-- Tests utilisateurs + corrections
-Outils :
-Playtests enregistrés, Google Forms, Notion
-
-### Mois 6 — Finitions + Communication + Versions finales
-**- Dev**
-- Build final
-- Compatibilité plateformes
-Outils :
-Unity Build Tools, itch.io or Steamworks
-
-**- Artiste**
-- Trailer du jeu
-- Screenshots officiels
-Outils :
-Premiere Pro / DaVinci Resolve, OBS Studio
-
-**- Sound**
-- Mix final pour le trailer
-Outils :
-Reaper
-
-**- GD**
-- Dossier de présentation projet
-Outils :
-Canva, Google Slides, Notion
-</details>
 
 ---
 
