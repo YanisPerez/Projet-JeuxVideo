@@ -275,7 +275,7 @@ Transitions (Photoshop, Unity animations)
 
 ---
 
-<h2>📘 6. Game Design Document et digramme de GANTT</h2>
+  <summary><h2>📘 6. Game Design Document et digramme de GANTT</h2></summary>
 
 [GDD.pdf](https://github.com/user-attachments/files/24003493/GDD.pdf)
 
