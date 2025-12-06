@@ -376,3 +376,10 @@ Retard : réduire les niveaux
 Bugs : focus sur gameplay simple
 
 </details>
+
+
+
+
+[GDD.pdf](https://github.com/user-attachments/files/24003200/GDD.pdf)
+
+
