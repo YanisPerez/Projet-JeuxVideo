@@ -274,12 +274,10 @@ Transitions (Photoshop, Unity animations)
 </details>
 
 ---
-<details>
+
   <summary><h2>📘 6. Game Design Document et digramme de GANTT</h2></summary>
 
 [GDD.pdf](https://github.com/user-attachments/files/24003493/GDD.pdf)
 
 
 [Gantt Excel.xlsx](https://github.com/user-attachments/files/24003313/Gantt.Excel.xlsx)
-
-</details>
