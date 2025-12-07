@@ -100,7 +100,7 @@
 ---
 
 <details>
-  <summary><h2>🎨 4. Liste complète d’assets graphiques à produire</h2></summary>
+  <summary><h2>🎨 4. Liens et liste complète d’assets graphiques à produire</h2></summary>
   
 (Avec les outils pour chaque type)
 
@@ -123,6 +123,20 @@ Boutons, HUD (Figma)
 **E. Effets visuels**
 Particules (Unity VFX / Particle System)
 Transitions (Photoshop, Unity animations)
+
+**LIENS**
+- https://ex-machina.fr/modeles.php?utm_source=chatgpt.com
+- https://free3d.com/fr/3d-models/lowpoly
+- https://open3dmodel.com/
+- https://sketchfab.com/search?q=low+poly&type=models
+- https://www.free-3d.fr/?utm_source=chatgpt.com
+- https://poly.pizza/
+- https://poly.pizza/explore
+- https://opengameart.org/art-search?keys=lowpoly
+- https://findfree3d.com/?utm_source=chatgpt.com
+- https://sketchfab.com/search?features=downloadable&licenses=7c23a1ba438d4306920229c12afcb5f9&licenses=72eb2b1960364637901eacce19283624&q=lowpoly&type=models
+- https://www.turbosquid.com/Search/3D-Models/low-poly/unity-asset?utm_source=chatgpt.com&max_price=0
+- https://www.freepolygon.com/en
 </details>
 
 ---
