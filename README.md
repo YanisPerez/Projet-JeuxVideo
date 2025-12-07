@@ -124,7 +124,7 @@ Boutons, HUD (Figma)
 Particules (Unity VFX / Particle System)
 Transitions (Photoshop, Unity animations)
 
-**LIENS**
+**LIENS BANQUES 3D :**
 - https://ex-machina.fr/modeles.php?utm_source=chatgpt.com
 - https://free3d.com/fr/3d-models/lowpoly
 - https://open3dmodel.com/
