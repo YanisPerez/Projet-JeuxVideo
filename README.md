@@ -166,4 +166,4 @@ Transitions (Photoshop, Unity animations)
 [Gantt Excel.xlsx](https://github.com/user-attachments/files/24003313/Gantt.Excel.xlsx)
 
 LIEN TRELLO :
-https://trello.com/invite/b/6934c52b02b21def9234ea7c/ATTIda237d6f68e4feaf2599d88147e892b2FD29ADD1/projet
+https://trello.com/invite/b/6934c52b02b21def9234ea7c/ATTI9f1a73f26372d1305df0cd4404bf4c1b18EA392C/projet
